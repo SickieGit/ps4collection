@@ -5,114 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>PS4 Game Collection</title>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-  <!-- Add Open Graph meta tags for better sharing -->
   <meta property="og:title" content="PS4 Game Collection">
   <meta property="og:description" content="The collection of the best PS4 titles in one place!">
   <meta property="og:image" content="https://sickiegit.github.io/ps4collection/thumbnail.webp">
   <meta property="og:url" content="https://sickiegit.github.io/ps4collection/">
-  <!-- End Open Graph meta tags -->
-  <style>
-    body {
-      background-color: #1e1e1e;
-      color: #ffffff;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    }
-
-    h1 {
-      text-align: center;
-      color: #ffffff;
-      margin: 0;
-      padding: 0;
-    }
-
-    .header {
-      text-align: center;
-      position: relative;
-      background: url("header_background.webp") center/cover no-repeat;
-      height: 200px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-    }
-
-    #logo {
-      width: 300px;
-      height: auto;
-      margin-bottom: 10px;
-    }
-
-    @media only screen and (max-width: 600px) {
-      .header {
-        height: auto;
-      }
-
-      #logo {
-        margin-bottom: 0;
-      }
-
-      h1 {
-        margin-top: 0;
-      }
-    }
-
-    .grid-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-      gap: 20px;
-      padding: 20px;
-      justify-content: center;
-    }
-
-    @media only screen and (min-width: 601px) {
-      .grid-container {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      }
-    }
-
-    .grid-item {
-      text-align: center;
-      transition: transform 0.1s ease-in-out;
-    }
-
-    .grid-item:hover {
-      transform: scale(1.1);
-    }
-
-    .grid-item img {
-      width: 100%;
-      height: auto;
-      border-radius: 8px;
-    }
-
-    .grid-item a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-    .search-container {
-      text-align: center;
-      margin: 20px;
-    }
-
-    input[type=text] {
-      width: 50%;
-      padding: 12px 20px;
-      margin: 8px 0;
-      box-sizing: border-box;
-      background-color: #333;
-      color: #fff;
-      border: 1px solid #555;
-      border-radius: 4px;
-    }
-
-    /* Add this media query for screens with a maximum width of 600px */
-    @media only screen and (max-width: 600px) {
-      .search-container input[type=text] {
-        width: 100%;
-      }
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 
 <body>
@@ -2532,24 +2429,7 @@
   </div>
   </div>
 
-  <script>
-    function filterGames() {
-      var input, filter, grid, gridItems, gameTitle, i;
-      input = document.getElementById("searchInput");
-      filter = input.value.toUpperCase();
-      grid = document.getElementById("gameGrid");
-      gridItems = grid.getElementsByClassName("grid-item");
-
-      for (i = 0; i < gridItems.length; i++) {
-        gameTitle = gridItems[i].getElementsByTagName("p")[0];
-        if (gameTitle.innerHTML.toUpperCase().indexOf(filter) > -1) {
-          gridItems[i].style.display = "";
-        } else {
-          gridItems[i].style.display = "none";
-        }
-      }
-    }
-  </script>
+  <script src="script.js"></script>
 </body>
 
 </html>
