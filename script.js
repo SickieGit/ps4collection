@@ -1,4 +1,3 @@
-// script.js
 function filterGames() {
   var input, filter, grid, gridItems, gameTitle, i;
   input = document.getElementById("searchInput");
