@@ -58,7 +58,8 @@ h1 {
 
 .grid-item {
   text-align: center;
-  transition: transform 0.1s ease-in-out;
+  transition: transform 0.15s ease-in-out;
+  width: 210px;
   height: 280px;
   margin-bottom: 70px;
 }
