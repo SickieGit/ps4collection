@@ -40,20 +40,28 @@ h1 {
   h1 {
     margin-top: 0;
   }
+
+  .grid-item {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .grid-container {
+    gap: 10px;
+  }
+
+  input[type=text] {
+    width: 100%;
+    box-sizing: border-box;
+  }
 }
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 20px;
   padding: 20px;
   justify-content: center;
-}
-
-@media only screen and (min-width: 601px) {
-  .grid-container {
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  }
 }
 
 .grid-item {
@@ -62,6 +70,7 @@ h1 {
   width: 210px;
   height: 280px;
   margin-bottom: 70px;
+  box-sizing: border-box;
 }
 
 .grid-item:hover {
@@ -94,10 +103,4 @@ input[type=text] {
   color: #fff;
   border: 1px solid #555;
   border-radius: 4px;
-}
-
-@media only screen and (max-width: 600px) {
-  .search-container input[type=text] {
-    width: 100%;
-  }
 }
