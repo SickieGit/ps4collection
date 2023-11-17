@@ -14,3 +14,13 @@ function filterGames() {
     }
   }
 }
+function toggleTextOverlay() {
+  var textToggle = document.getElementById("textToggle");
+  var gameGrid = document.getElementById("gameGrid");
+  if (textToggle.checked) {
+    gameGrid.classList.add("show-text");
+  } else {
+    gameGrid.classList.remove("show-text");
+  }
+
+}

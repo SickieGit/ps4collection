@@ -17,6 +17,10 @@
     <img id="logo" src="ps4-logo.svg" alt="PS4 Logo">
     <h1>Game Collection</h1>
   </div>
+  <div class="toggle-container">
+    <label for="textToggle">Titles visible</label>
+    <input type="checkbox" id="textToggle" onchange="toggleTextOverlay()">
+  </div>
   <div class="search-container">
     <input type="text" id="searchInput" onkeyup="filterGames()" placeholder="Search for games...">
   </div>

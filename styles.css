@@ -44,6 +44,7 @@ h1 {
 
 .grid-item:hover {
   transform: scale(1.1);
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
 }
 
 .grid-item img {
@@ -61,13 +62,13 @@ h1 {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.7);
   padding: 10px;
   box-sizing: border-box;
   color: #fff;
   opacity: 0;
-  transition: opacity 0.3s ease-in-out; 
-  font-weight: bold; 
+  transition: opacity 0.3s ease-in-out;
+  font-weight: bold;
   margin: 0;
 }
 
@@ -98,6 +99,59 @@ input[type=text] {
 
 }
 
+.toggle-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.toggle-container label {
+  margin-right: 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+#textToggle {
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 40px;
+  height: 20px;
+  background-color: #555;
+  border-radius: 20px;
+  outline: none;
+  position: relative;
+  transition: background-color 0.3s ease-in-out;
+}
+
+#textToggle::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  background-color: #fff;
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: 50%;
+  transition: left 0.3s ease-in-out;
+}
+
+#textToggle:checked::before {
+  left: 20px;
+  transition: left 0.3s ease-in-out;
+}
+
+.show-text .grid-item .text-overlay {
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+#textToggle:checked {
+  background-color: #4CAF50;
+  transition: background-color 0.3s ease-in-out;
+}
+
 @media only screen and (max-width: 600px) {
   .header {
     height: auto;
@@ -105,7 +159,7 @@ input[type=text] {
   }
 
   .grid-container {
-    
+
     grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     gap: 10px;
   }
@@ -125,6 +179,10 @@ input[type=text] {
 
   input[type=text] {
     width: 100%;
+  }
+
+  .toggle-container {
+    display: none;
   }
 }
 
@@ -154,5 +212,9 @@ input[type=text] {
 
   input[type=text] {
     width: 75%;
+  }
+
+  .toggle-container {
+    display: none;
   }
 }
