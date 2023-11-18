@@ -14,6 +14,14 @@ function filterGames() {
     }
   }
 }
+
+function resetSearchInput() {
+  var input = document.getElementById("searchInput");
+  input.value = "";
+}
+
+window.addEventListener("load", resetSearchInput);
+
 function toggleTextOverlay() {
   var textToggle = document.getElementById("textToggle");
   var gameGrid = document.getElementById("gameGrid");
