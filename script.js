@@ -30,5 +30,24 @@ function toggleTextOverlay() {
   } else {
     gameGrid.classList.remove("show-text");
   }
-
 }
+
+function clearSearchInput() {
+  var input = document.getElementById("searchInput");
+  input.value = ""; 
+  filterGames();
+}
+
+window.addEventListener("load", resetSearchInput);
+
+document.addEventListener("click", function (event) {
+  var searchInput = document.getElementById("searchInput");
+
+  if (event.target !== searchInput && !searchInput.contains(event.target)) {
+    clearSearchInput(); 
+  }
+});
+document.addEventListener("DOMContentLoaded", function() {
+  // This function will be called when the DOM is fully loaded
+  document.getElementById("textToggle").checked = false;
+});
