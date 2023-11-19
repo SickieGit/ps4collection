@@ -175,6 +175,88 @@ input[type=text] {
   transition: background-color 0.3s ease-in-out;
 }
 
+#gameInfoContainer {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
+  position: fixed;
+  z-index: 999;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  display: none;
+  overflow-y: auto; /* Add this line to enable vertical scrolling */
+  max-height: 80vh; /* Set a maximum height to make it scrollable */
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#gameInfoContainer h2 {
+  margin-top: 0;
+}
+
+#gameInfoContainer p {
+  margin-bottom: 10px;
+}
+
+#gameInfoContainer.show-info {
+  position: absolute;
+  width: 300px;
+  background-color: #1e1e1e;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  white-space: normal;
+}
+
+
+.progress-bar {
+  position: relative;
+  width: 50px; 
+  height: 50px; 
+  background: conic-gradient(
+    #4CAF50 0% var(--percentage),
+    #1e1e1e var(--percentage) 100%
+  );
+  border-radius: 50%;
+  margin: 10px 0; 
+}
+
+
+.progress-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.more-info-btn {
+  background-color: #4CAF50;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.more-info-btn:hover {
+  background-color: #45a049;
+}
+
+
 @media only screen and (max-width: 600px) {
   .header {
     height: auto;
