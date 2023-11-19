@@ -65,16 +65,14 @@ document.addEventListener("DOMContentLoaded", function () {
       hideGameInfo();
     });
 
-    // Add click event for mobile devices
-    gridItems[i].addEventListener("click", function (event) {
-      if (isMobileDevice()) {
-        event.preventDefault(); // Prevent hyperlink navigation on mobile
-        var gameId = event.currentTarget.querySelector("a").getAttribute("data-game-id");
-        var selectedGame = gamesData.find((game) => game.game_id === gameId);
+    // Add touchstart event for mobile devices
+    gridItems[i].addEventListener("touchstart", function (event) {
+      event.preventDefault(); // Prevent default touch behavior
+      var gameId = event.currentTarget.querySelector("a").getAttribute("data-game-id");
+      var selectedGame = gamesData.find((game) => game.game_id === gameId);
 
-        if (selectedGame) {
-          displayGameInfo(selectedGame, event);
-        }
+      if (selectedGame) {
+        displayGameInfo(selectedGame, event);
       }
     });
   }
@@ -86,7 +84,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Close game info window on mobile
   if (isMobileDevice()) {
-    infoContainer.addEventListener("click", function () {
+    infoContainer.addEventListener("click", function (event) {
+      event.stopPropagation(); // Stop the propagation to prevent closing on touch inside the info window
       hideGameInfo();
     });
   }
