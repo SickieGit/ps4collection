@@ -93,6 +93,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 function displayGameInfo(game, event) {
+  event.stopPropagation();
   var infoContainer = document.getElementById("gameInfoContainer");
 
   var percentage = (game.total_rating / 100) * 360;
