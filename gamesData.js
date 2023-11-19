@@ -2304,7 +2304,7 @@ var gamesData = [
     "Ubisoft Pune"
   ],
   "description": "Far Cry 3 Blood Dragon Classic Edition is THE 80's-style sci-fi cyber shooter, taking place on a bizarre open world island crawling with evil - now on the current generation of consoles.",
-  "total_rating": 0,
+  "total_rating": 81,
   "url": "https://www.igdb.com/games/far-cry-3-blood-dragon-classic-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4hgc.jpg"
 },
@@ -2689,7 +2689,9 @@ var gamesData = [
     "Racing",
     "Adventure"
   ],
-  "involved_companies": [],
+  "involved_companies": [
+    "Rockstar Games"
+  ],
   "description": "It's the early '90s. After a couple of cops frame him for homicide, Carl \"CJ\" Johnson is forced on a journey that takes him across the entire state of San Andreas, to save his family and to take control of the streets.",
   "total_rating": 50,
   "url": "https://www.igdb.com/games/grand-theft-auto-san-andreas-the-definitive-edition",
@@ -2704,7 +2706,9 @@ var gamesData = [
     "Racing",
     "Adventure"
   ],
-  "involved_companies": [],
+  "involved_companies": [
+    "Rockstar Games"
+  ],
   "description": "Welcome to the 1980s. Experience Tommy Vercetti’s tale of betrayal and revenge in the neon-soaked tropical sprawl of Vice City, a town brimming with excess, ready to be taken over, your way.",
   "total_rating": 60,
   "url": "https://www.igdb.com/games/grand-theft-auto-vice-city-the-definitive-edition",
@@ -2919,15 +2923,15 @@ var gamesData = [
     "Square Enix",
     "IO Interactive"
   ],
-  "description": "It is a remaster with improved graphics for PS4/XBOX One",
-  "total_rating": 0,
+  "description": "Hitman: Absolution follows the Original Assassin undertaking his most personal contract to date. Betrayed by the Agency and hunted by the police, Agent 47 finds himself pursuing redemption in a corrupt and twisted world. Showcasing Io-Interactive’s new proprietary Glacier 2 technology, the game has been built from the ground up, boasting a cinematic story, distinctive art direction and highly original game design, Hitman Absolution combines much loved classic gameplay with completely new gameplay features for the Hitman franchise.",
+  "total_rating": 76,
   "url": "https://www.igdb.com/games/hitman-absolution-hd",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6hdm.jpg"
 },
   {
   "game_id": "99816",
   "title": "Hitman: Blood Money HD",
-  "release_date": "N/A",
+  "release_date": "2019-01-11",
   "genres": [
     "Shooter"
   ],
@@ -2935,7 +2939,7 @@ var gamesData = [
     "IO Interactive"
   ],
   "description": "Hitman’s back, drawing you closer than ever into his deadly world where staying anonymous, being smart and totally ruthless are the key to a perfect execution. Lucrative contracts on the rich and powerful in high profile locations make killing for money good business. But when a rival agency enters the scene it’s war and only the best man will be left standing.",
-  "total_rating": 0,
+  "total_rating": 82,
   "url": "https://www.igdb.com/games/hitman-blood-money-hd",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hlw.jpg"
 },
@@ -3386,9 +3390,12 @@ var gamesData = [
     "Adventure",
     "Arcade"
   ],
-  "involved_companies": [],
+  "involved_companies": [
+    "Visual Concepts",
+    "2k Games"
+  ],
   "description": "LEGO 2K Drive Awesome Edition includes: # Aquadirt Racer Pack\n# Year 1 Drive Pass: Includes Season 1, 2, 3 and 4 DLC packs. the Awesome Pizza Vehicle. Release timing of the DLC contents will be revealed at a future date.\n# 550 Coins\n# Awesome Bonus Pack: Includes Wheelie Stunt Driver Minifigure, Machio Beast Vehicle and a Vehicle Flair.\n# 3 Day Early Access",
-  "total_rating": 0,
+  "total_rating": 76,
   "url": "https://www.igdb.com/games/lego-2k-drive-awesome-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aez.jpg"
 },
@@ -4542,29 +4549,15 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26c2.jpg"
 },
   {
-  "game_id": "14390",
-  "title": "Outlast II",
-  "release_date": "2017-04-25",
-  "genres": [
-    "Adventure",
-    "Indie"
-  ],
-  "involved_companies": [
-    "Red Barrels"
-  ],
-  "description": "Outlast 2 is the sequel to the acclaimed survival horror game Outlast. Set in the same universe as the first game, but with different characters and a different setting, Outlast 2 is a twisted new journey into the depths of the human mind and its dark secrets. No conflict is ever black and white.",
-  "total_rating": 74,
-  "url": "https://www.igdb.com/games/outlast-ii",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x8.jpg"
-},
-  {
   "game_id": "28230",
   "title": "Outlast: Trinity",
   "release_date": "2017-05-25",
   "genres": [
     "Adventure"
   ],
-  "involved_companies": [],
+  "involved_companies": [
+    "Red Barrels"
+  ],
   "description": "Outlast Trinity: The Ultimate Horror Bundle. Outlast is a first-person survival horror series developed by Red Barrels. The critically acclaimed franchise is now available as a complete package. The bundle features over 20 hours of terrifying gameplay across Outlast 1, Outlast Whistleblower and the all new Outlast 2. The protagonists of Outlast have no fighting abilities. They must run, hide or die. Their only weapon is a camcorder they must use to capture the horrible events unfolding as they progress through the game. The camcorder also has a night vision mode to navigate through dark environments. In Outlast 2 you are Blake Langermann, a cameraman working with your wife, Lynn. The two of you are investigative journalists willing to take risks and dig deep to uncover the stories no one else will dare touch. You're following a trail of clues that started with the seemingly impossible murder of a pregnant woman known only as Jane Doe. The investigation has led you miles into the Arizona desert, to a darkness so deep that no one could shed light upon it, and a corruption so profound that going mad may be the only sane thing to do.",
   "total_rating": 79,
   "url": "https://www.igdb.com/games/outlast-trinity",
@@ -4784,7 +4777,7 @@ var gamesData = [
     "Double Eleven"
   ],
   "description": "A bundle containing ports of Red Dead Redemption and the Undead Nightmare expansion missing multiplayer components and including some parts of the GOTY release.",
-  "total_rating": 0,
+  "total_rating": 91,
   "url": "https://www.igdb.com/games/red-dead-redemption--2",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6wrn.jpg"
 },
@@ -4985,7 +4978,7 @@ var gamesData = [
     "Warner Bros. Interactive Entertainment"
   ],
   "description": "Rocket League equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football.",
-  "total_rating": 0,
+  "total_rating": 85,
   "url": "https://www.igdb.com/games/rocket-league-ultimate-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f2b.jpg"
 },
@@ -6960,9 +6953,11 @@ var gamesData = [
     "Racing",
     "Adventure"
   ],
-  "involved_companies": [],
+  "involved_companies": [
+    "Ubisoft Montreal"
+  ],
   "description": "Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2. In 2016, ctOS 2.0, an advanced operating system networking city infrastructure, was implemented in several US cities to create a safer, more efficient metropolis. Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, and expose the hidden dangers of ctOS 2.0, which, in the hands of corrupt corporations, is being wrongfully used to monitor and manipulate citizens on a massive scale. With the power of hacking and Dedsec by your side, launch the Hack of the Century, take down ctOS 2.0 and give freedom back to whom it belongs: the people.",
-  "total_rating": 0,
+  "total_rating": 79,
   "url": "https://www.igdb.com/games/watch-dogs-2-gold-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pbj.jpg"
 },
@@ -7145,7 +7140,7 @@ var gamesData = [
     "Paramount Pictures"
   ],
   "description": "World War Z: Aftermath is the ultimate co-op zombie shooter based on Paramount Pictures’ blockbuster film, and the next evolution of the original hit World War Z that has now captivated over 15 million players. Turn the tide of the zombie apocalypse across consoles and PC with full cross-play. Join up to three friends or play on your own with AI teammates against hordes of ravenous zombies in intense story episodes across new zombie-ravaged locations around the world: Rome, Vatican City and Russia’s Kamchatka peninsula. All-new story episodes in Rome, Vatican City, and the Russian far east at Kamchatka. Play as both new and returning characters as you take the fight to the undead with a brutal new melee system, decimating zekes with unique moves, perks and dual-wield weapon options like the sickle and cleaver. Fend off new undead monstrosities, including swarms of flesh-hungry rats that will unleash total chaos on your team.",
-  "total_rating": 0,
+  "total_rating": 72,
   "url": "https://www.igdb.com/games/world-war-z-aftermath",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39v5.jpg"
 },
