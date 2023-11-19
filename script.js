@@ -65,14 +65,16 @@ document.addEventListener("DOMContentLoaded", function () {
       hideGameInfo();
     });
 
-    // Add touchstart event for mobile devices
-    gridItems[i].addEventListener("touchstart", function (event) {
-      event.preventDefault(); // Prevent default touch behavior
-      var gameId = event.currentTarget.querySelector("a").getAttribute("data-game-id");
-      var selectedGame = gamesData.find((game) => game.game_id === gameId);
+    // Add click event for mobile devices
+    gridItems[i].addEventListener("click", function (event) {
+      if (isMobileDevice()) {
+        event.preventDefault(); // Prevent hyperlink navigation on mobile
+        var gameId = event.currentTarget.querySelector("a").getAttribute("data-game-id");
+        var selectedGame = gamesData.find((game) => game.game_id === gameId);
 
-      if (selectedGame) {
-        displayGameInfo(selectedGame, event);
+        if (selectedGame) {
+          displayGameInfo(selectedGame, event);
+        }
       }
     });
   }
@@ -84,15 +86,13 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Close game info window on mobile
   if (isMobileDevice()) {
-    infoContainer.addEventListener("click", function (event) {
-      event.stopPropagation(); // Stop the propagation to prevent closing on touch inside the info window
+    infoContainer.addEventListener("click", function () {
       hideGameInfo();
     });
   }
 });
 
 function displayGameInfo(game, event) {
-  event.stopPropagation();
   var infoContainer = document.getElementById("gameInfoContainer");
 
   var percentage = (game.total_rating / 100) * 360;
@@ -106,7 +106,8 @@ function displayGameInfo(game, event) {
     <p><strong>Genres:</strong> ${game.genres.join(", ")}</p>
     <p><strong>Made by:</strong> ${game.involved_companies.join(", ")}</p>
     <p><strong>Description:</strong> ${game.description}</p>
-        ${isMobileDevice() ? `<button class="more-info-btn" onclick="window.open('${game.url}', '_blank')">More Info</button>` : ''}
+    ${isMobileDevice() ? `<button class="more-info-btn" onclick="window.open('${game.url}', '_blank')" onTouchStart="event.preventDefault(); this.click();">More Info</button>` : ''}
+    ${isMobileDevice() ? `<button class="more-info-btn close-btn" onTouchStart="event.preventDefault(); this.click();">Close</button>` : ''}
   `;
 
   infoContainer.innerHTML = htmlContent;
@@ -148,7 +149,23 @@ function displayGameInfo(game, event) {
 
   // Animate the progress bar
   animateProgressBar(percentage);
+
+  // Close game info window on mobile when "Close" button is clicked
+  if (isMobileDevice()) {
+    var closeButton = document.querySelector("#gameInfoContainer .close-btn");
+    closeButton.addEventListener("touchstart", function () {
+      hideGameInfo();
+    });
+  }
 }
+
+
+
+function navigateTo(url) {
+  window.location.href = url;
+}
+
+
 
 function animateProgressBar(targetPercentage) {
   var progressBar = document.querySelector(".progress-bar");
