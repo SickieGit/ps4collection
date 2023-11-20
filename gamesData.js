@@ -1034,6 +1034,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4sbw.jpg"
 },
   {
+  "game_id": "260780",
+  "title": "Call of Duty: Modern Warfare III",
+  "release_date": "2023-10-08",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "Sledgehammer Games",
+    "Activision"
+  ],
+  "description": "The game brings \"open combat, \" offering players more choices in approaching the single-player missions. Makarov returns as the chief villain of the new campaign. The newly introduced Carry Forward system will let players keep their progression and inventory from Modern Warfare II. Multiplayer fans can expect 16 maps at the launch and at least 12 coming later. Zombies mode will also return and should offer the largest zombie map to date.",
+  "total_rating": 58,
+  "url": "https://www.igdb.com/games/call-of-duty-modern-warfare-iii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ctx.jpg"
+},
+  {
   "game_id": "24920",
   "title": "Call of Duty: Modern Warfare Remastered",
   "release_date": "2016-11-04",
