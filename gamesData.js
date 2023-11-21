@@ -2576,6 +2576,27 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3p5f.jpg"
 },
   {
+  "game_id": "121752",
+  "title": "Ghostrunner",
+  "release_date": "2020-10-27",
+  "genres": [
+    "Shooter",
+    "Platform",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "One More Level",
+    "All In! Games",
+    "3D Realms",
+    "Slipgate Ironworks",
+    "505 Games"
+  ],
+  "description": "Ascend humanity’s last remaining shelter, a great tower-city. The tower is torn by violence, poverty and chaos. Conquer your enemies, discover the secrets of the superstructure and your own origin and obtain the power to challenge The Keymaster.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/ghostrunner",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2nbk.jpg"
+},
+  {
   "game_id": "19560",
   "title": "God of War",
   "release_date": "2018-04-20",
