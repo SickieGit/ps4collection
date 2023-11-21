@@ -692,6 +692,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mps.jpg"
 },
   {
+  "game_id": "54842",
+  "title": "Biomutant",
+  "release_date": "2021-05-25",
+  "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Experiment 101",
+    "THQ Nordic"
+  ],
+  "description": "Biomutant is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action. A plague is ruining the land and the Tree-of-Life is bleeding death from its roots. The Tribes stand divided. Explore a world in turmoil and define its fate, will you be its savior or lead it to an even darker destiny?",
+  "total_rating": 66,
+  "url": "https://www.igdb.com/games/biomutant",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rse.jpg"
+},
+  {
   "game_id": "41595",
   "title": "BioShock Infinite: The Complete Edition",
   "release_date": "2020-05-29",
