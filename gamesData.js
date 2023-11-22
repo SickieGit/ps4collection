@@ -1734,6 +1734,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5vq8.jpg"
 },
   {
+  "game_id": "107218",
+  "title": "Desperados III",
+  "release_date": "2020-06-16",
+  "genres": [
+    "Real Time Strategy (RTS)",
+    "Simulator",
+    "Strategy",
+    "Tactical"
+  ],
+  "involved_companies": [
+    "THQ Nordic",
+    "Mimimi Games"
+  ],
+  "description": "The Wild West. A place where the law is made by those with a gun in their hands, and is enforced by the henchmen at their command. A place where death is no stranger and the undertakers are working overtime… especially when people start playing Desperados III. This real-time tactics game, developed by German game studio Mimimi Games (Shadow Tactics: Blades Of The Shogun), lets players command a band of Desperados led by fan-favourite gunslinger John Cooper.",
+  "total_rating": 86,
+  "url": "https://www.igdb.com/games/desperados-iii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co51km.jpg"
+},
+  {
   "game_id": "14362",
   "title": "Detroit: Become Human",
   "release_date": "2018-05-25",
