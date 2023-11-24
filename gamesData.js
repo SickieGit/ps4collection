@@ -610,6 +610,40 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4tld.jpg"
 },
   {
+  "game_id": "51525",
+  "title": "Batman: The Enemy Within",
+  "release_date": "2017-08-08",
+  "genres": [
+    "Point-and-click",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Telltale Games"
+  ],
+  "description": "In this latest chapter, both Bruce Wayne and Batman will be forced into precarious new roles. The Riddler has returned to terrorize Gotham City, but his gruesome puzzles merely foreshadow an even greater crisis. With the arrival of a ruthless federal agent and the return of a still nascent Joker, Batman must navigate uneasy alliances while Bruce Wayne undertakes a perilous series of deceptions. Which of Batman's new allies will you choose to trust? And how deep into the darkness will you let Bruce descend?",
+  "total_rating": 77,
+  "url": "https://www.igdb.com/games/batman-the-enemy-within",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co208l.jpg"
+},
+  {
+  "game_id": "14746",
+  "title": "Batman: The Telltale Series",
+  "release_date": "2016-08-02",
+  "genres": [
+    "Point-and-click",
+    "Role-playing (RPG)",
+    "Adventure",
+    "Visual Novel"
+  ],
+  "involved_companies": [
+    "Telltale Games"
+  ],
+  "description": "Enter the fractured psyche of Bruce Wayne and discover the powerful and far-reaching consequences of your choices as the Dark Knight. In this gritty and violent new story from the award-winning creators of The Walking Dead – A Telltale Games Series, you'll make discoveries that will shatter Bruce Wayne's world, and the already fragile stability of a corrupt Gotham City.",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/batman-the-telltale-series",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1u65.jpg"
+},
+  {
   "game_id": "18320",
   "title": "Battlefield 1",
   "release_date": "2016-10-21",
@@ -7216,6 +7250,22 @@ var gamesData = [
   "total_rating": 72,
   "url": "https://www.igdb.com/games/world-war-z-aftermath",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39v5.jpg"
+},
+  {
+  "game_id": "19696",
+  "title": "Worms W.M.D",
+  "release_date": "2016-08-23",
+  "genres": [
+    "Strategy",
+    "Turn-based strategy (TBS)"
+  ],
+  "involved_companies": [
+    "Team17"
+  ],
+  "description": "The worms are back in their most destructive game yet! With a gorgeous, hand-drawn 2D look, brand new weapons, the introduction of crafting, vehicles and buildings plus the return of some much-loved classic weapons and gameplay, Worms W.M.D is the best worms experience ever.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/worms-wmd",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xrj.jpg"
 },
   {
   "game_id": "201963",
