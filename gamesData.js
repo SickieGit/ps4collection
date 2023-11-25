@@ -5365,6 +5365,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wmc.jpg"
 },
   {
+  "game_id": "19130",
+  "title": "Sid Meier's Civilization VI",
+  "release_date": "2019-11-22",
+  "genres": [
+    "Simulator",
+    "Strategy",
+    "Turn-based strategy (TBS)"
+  ],
+  "involved_companies": [
+    "Firaxis Games",
+    "Aspyr Media",
+    "2K Games"
+  ],
+  "description": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
+  "total_rating": 84,
+  "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r54.jpg"
+},
+  {
   "game_id": "144022",
   "title": "Sifu",
   "release_date": "2022-02-08",
