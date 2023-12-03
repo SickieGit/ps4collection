@@ -4326,6 +4326,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r2.jpg"
 },
   {
+  "game_id": "188661",
+  "title": "MLB The Show 22",
+  "release_date": "2022-04-05",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "MLB Advanced Media",
+    "SIE San Diego Studio",
+    "Sony Interactive Entertainment"
+  ],
+  "description": "Experience faster, deeper and more intense moment-to-moment match action on the field, with a variety of game modes for all you rookie players and returning seasoned vets. Every pitch. Every hit. Every win. Make your mark and Own The Show in MLB The Show 22.",
+  "total_rating": 77,
+  "url": "https://www.igdb.com/games/mlb-the-show-22",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4fcv.jpg"
+},
+  {
   "game_id": "118273",
   "title": "Monster Hunter World: Iceborne Master Edition",
   "release_date": "2019-09-06",
