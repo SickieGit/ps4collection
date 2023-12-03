@@ -4007,6 +4007,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uuh.jpg"
 },
   {
+  "game_id": "243668",
+  "title": "Madden NFL 23",
+  "release_date": "2022-08-19",
+  "genres": [
+    "Sport"
+  ],
+  "involved_companies": [
+    "EA Sports",
+    "EA Tiburon"
+  ],
+  "description": "Play your way into the history books in Madden NFL 23!\nControl your impact with every decision in all-new ways. Call the shots in Franchise with free agency and trade logic updates, play your way into the history books in Face of the Franchise: The League, and assemble the most powerful roster in all of Madden Ultimate Team.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/madden-nfl-23--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eir.jpg"
+},
+  {
   "game_id": "134071",
   "title": "Mafia II: Definitive Edition",
   "release_date": "2020-05-19",
@@ -4490,6 +4506,22 @@ var gamesData = [
   "total_rating": 70,
   "url": "https://www.igdb.com/games/neighbours-back-from-hell",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i3y.jpg"
+},
+  {
+  "game_id": "214675",
+  "title": "NHL 23",
+  "release_date": "2022-10-14",
+  "genres": [
+    "Sport"
+  ],
+  "involved_companies": [
+    "EA Sports",
+    "EA Vancouver"
+  ],
+  "description": "NHL 23 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 32nd instalment in the NHL video game series",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/nhl-23",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55mk.jpg"
 },
   {
   "game_id": "131999",
