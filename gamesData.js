@@ -3121,6 +3121,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2u4x.jpg"
 },
   {
+  "game_id": "251471",
+  "title": "Hot Wheels Unleashed 2: Turbocharged",
+  "release_date": "2023-10-19",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport",
+    "Arcade"
+  ],
+  "involved_companies": [
+    "Milestone"
+  ],
+  "description": "The world’s raddest cars are back and taking the fun to the next level! Race over 130 vehicles with crazy new mechanics and even more vehicle types. Plus, build your tracks with stunning new environments and different game modes to have fun off and online!",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/hot-wheels-unleashed-2-turbocharged",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6kko.jpg"
+},
+  {
   "game_id": "1384",
   "title": "Hotline Miami",
   "release_date": "2014-08-19",
