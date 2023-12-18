@@ -5398,6 +5398,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co45x3.jpg"
 },
   {
+  "game_id": "134161",
+  "title": "Sherlock Holmes: Chapter One",
+  "release_date": "2022-04-28",
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frogwares"
+  ],
+  "description": "In this story-driven detective thriller, a young Sherlock Holmes struggles to prove himself as he navigates an exotic, dangerous island in the Mediterranean to investigate the mystery of his mother’s death. As Sherlock, your legacy is written by the decisions you make in this open world. Deception, violence, and deduction are just a few resources in your arsenal—your mysterious companion and sounding board, Jon, is another. Whether you choose brute force to solve problems or stay one step ahead of your enemies by using your wits to spot vulnerabilities, you decide what each situation demands as you hone your investigative skills. It’s time to confront your past so you can become the legend you’re destined to be.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/sherlock-holmes-chapter-one",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co48pg.jpg"
+},
+  {
   "game_id": "5541",
   "title": "Sherlock Holmes: Crimes & Punishments",
   "release_date": "2014-09-29",
