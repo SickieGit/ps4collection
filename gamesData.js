@@ -2241,20 +2241,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2es1.jpg"
 },
   {
-  "game_id": "135881",
-  "title": "eFootball PES 2021 Season Update",
-  "release_date": "2020-09-15",
+  "game_id": "266157",
+  "title": "eFootball 2024",
+  "release_date": "2023-09-07",
   "genres": [
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
-    "Konami"
+    "Konami",
+    "Konami Digital Entertainment"
   ],
-  "description": "Celebrate 25 years of PES with the eFootball PES 2021 Season Update! This product is an updated edition of eFootball PES 2020 containing the latest player data and club rosters.",
-  "total_rating": 72,
-  "url": "https://www.igdb.com/games/efootball-pes-2021-season-update",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g3c.jpg"
+  "description": "eFootball 2024 is a free football simulation video game developed by Konami Digital Entertainment and published by Konami.",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/efootball-2024",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co72ie.jpg"
 },
   {
   "game_id": "119133",
