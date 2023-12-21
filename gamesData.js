@@ -6935,6 +6935,26 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qsm.jpg"
 },
   {
+  "game_id": "245390",
+  "title": "Trine 5: A Clockwork Conspiracy",
+  "release_date": "2023-08-31",
+  "genres": [
+    "Platform",
+    "Puzzle",
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frozenbyte",
+    "THQ Nordic"
+  ],
+  "description": "Trine 5: A Clockwork Conspiracy will take Amadeus the Wizard, Zoya the Thief, and Pontius the Knight on their most action-packed journey yet! Traverse breathtaking 2.5D landscapes in Trine‘s deepest and visually richest chapter to date, with an all new cast of characters – some friends, some foes, but all unforgettable. Whether by yourself or playing with up to three friends in online and local co-op, the upgraded puzzle difficulty system keeps things fresh, adapting the challenge to the number of players. Level up the heroes' abilities with the all-new skill quest system, growing their legend as they are once again united by… the Trine!",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/trine-5-a-clockwork-conspiracy",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6dpx.jpg"
+},
+  {
   "game_id": "51800",
   "title": "Trine Enchanted Edition",
   "release_date": "2014-12-17",
