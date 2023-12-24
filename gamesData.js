@@ -67,6 +67,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6zbz.jpg"
 },
   {
+  "game_id": "19440",
+  "title": "Agents of Mayhem",
+  "release_date": "2017-08-15",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Deep Silver",
+    "Volition"
+  ],
+  "description": "Agents of Mayhem is the new open world game from Volition, the studio that brought you the Saints Row franchise. Play as a cast of unique and diverse Super Agents from all over the world, and lead them in MAYHEM’s epic fight to save the city of Seoul from the destructive schemes of the evil supervillain organization LEGION!",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/agents-of-mayhem",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co22mh.jpg"
+},
+  {
   "game_id": "167611",
   "title": "Alan Wake Remastered",
   "release_date": "2021-10-05",
@@ -925,6 +942,24 @@ var gamesData = [
   "total_rating": 82,
   "url": "https://www.igdb.com/games/brothers-a-tale-of-two-sons",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rro.jpg"
+},
+  {
+  "game_id": "78153",
+  "title": "Burnout Paradise Remastered",
+  "release_date": "2018-03-16",
+  "genres": [
+    "Racing",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Criterion Games",
+    "Stellar Entertainment",
+    "Electronic Arts"
+  ],
+  "description": "Welcome back to Paradise City! Make action your middle name as you rule the streets in Burnout Paradise Remastered.\nTear up the town from hectic downtown avenues to wild mountain roads.\nRelive the high-octane stunts and wanton destruction of one of the greatest arcade-driving games ever! Burnout Paradise Remastered provides the ultimate driving playground for you and your friends to play online.\nThis remaster includes the 8 main DLC packs from the Year of Paradise, including the Big Surf Island update, meticulously recreated and ready to wreck!",
+  "total_rating": 77,
+  "url": "https://www.igdb.com/games/burnout-paradise-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r3.jpg"
 },
   {
   "game_id": "6632",
@@ -7625,5 +7660,21 @@ var gamesData = [
   "total_rating": 87,
   "url": "https://www.igdb.com/games/yakuza-like-a-dragon",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2em9.jpg"
+},
+  {
+  "game_id": "119234",
+  "title": "Zombie Army 4: Dead War",
+  "release_date": "2020-02-04",
+  "genres": [
+    "Shooter",
+    "Arcade"
+  ],
+  "involved_companies": [
+    "Rebellion Developments"
+  ],
+  "description": "Hitler's hordes are back for more in this spine-chilling shooter from the makers of Sniper Elite 4! Abominable occult enemies, epic weapons and a harrowing new campaign for 1-4 players await in 1940's Europe, as you fight to save humankind from undead armageddon.",
+  "total_rating": 69,
+  "url": "https://www.igdb.com/games/zombie-army-4-dead-war",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lwq.jpg"
 },
 ]
