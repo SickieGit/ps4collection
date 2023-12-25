@@ -556,6 +556,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68ag.jpg"
 },
   {
+  "game_id": "116200",
+  "title": "Back 4 Blood",
+  "release_date": "2021-10-12",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "Turtle Rock Studios",
+    "Warner Bros. Interactive Entertainment"
+  ],
+  "description": "Back 4 Blood is a thrilling cooperative first-person shooter from the creators of the critically acclaimed Left 4 Dead franchise. You are at the center of a war against the Ridden. These once-human hosts of a deadly parasite have turned into terrifying creatures bent on devouring what remains of civilization. With humanity’s extinction on the line, it’s up to you and your friends to take the fight to the enemy, eradicate the Ridden, and reclaim the world.",
+  "total_rating": 73,
+  "url": "https://www.igdb.com/games/back-4-blood",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhj.jpg"
+},
+  {
   "game_id": "1983",
   "title": "Bastion",
   "release_date": "2015-04-07",
@@ -4398,6 +4414,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4fcv.jpg"
 },
   {
+  "game_id": "77010",
+  "title": "Monopoly Family Fun Pack",
+  "release_date": "2014-11-27",
+  "genres": [
+    "Strategy",
+    "Quiz/Trivia",
+    "Card & Board Game"
+  ],
+  "involved_companies": [
+    "Asobo Studio"
+  ],
+  "description": "A new era of Monopoly for home consoles! The Monopoly Family Fun Pack gathers the 3 Monopoly Games: - Monopoly PLU: the classic Monopoly with a 3D animated board!\n- My Monopoly, to create your very own board\n- Monopoly Deal, a fast-paced and addictive Monopoly card-game Enjoy the classic Monopoly in new fun ways, with your friends and people all around the world!",
+  "total_rating": 58,
+  "url": "https://www.igdb.com/games/monopoly-family-fun-pack",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw4.jpg"
+},
+  {
   "game_id": "118273",
   "title": "Monster Hunter World: Iceborne Master Edition",
   "release_date": "2019-09-06",
@@ -6441,6 +6474,24 @@ var gamesData = [
   "total_rating": 83,
   "url": "https://www.igdb.com/games/the-outer-worlds",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2eew.jpg"
+},
+  {
+  "game_id": "113118",
+  "title": "The Pathless",
+  "release_date": "2020-11-12",
+  "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Annapurna Interactive",
+    "Giant Squid"
+  ],
+  "description": "The Pathless is a mythic adventure where you play as the Hunter, a skilled archer who explores a mysterious cursed island with an eagle companion. Your goal is to lift an unnatural shroud of darkness that plagues the world. As you bound acrobatically through dense forests, you will hunt prey, discover ancient ruins, and form a deep bond with your eagle. But beware: dangerous spirits also lurk in the woods. If you aren't careful, you may become the hunted yourself.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/the-pathless",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2hm5.jpg"
 },
   {
   "game_id": "25837",
