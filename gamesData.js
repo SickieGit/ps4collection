@@ -6907,6 +6907,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2t2f.jpg"
 },
   {
+  "game_id": "11172",
+  "title": "TrackMania Turbo",
+  "release_date": "2016-03-22",
+  "genres": [
+    "Racing",
+    "Arcade"
+  ],
+  "involved_companies": [
+    "Nadeo"
+  ],
+  "description": "Trackmania offers you the ultimate arcade racing universe where everything is about reaching the perfect racing time. Test your skills in over 200 tracks, experience immediate fun by challenging your friends at home (offline splitscreen) or online. The competition lasts forever: design and share your own tracks with other players in the Trackbuilder!",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/trackmania-turbo",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4h.jpg"
+},
+  {
   "game_id": "152203",
   "title": "Trek to Yomi",
   "release_date": "2022-05-05",
@@ -7354,6 +7370,25 @@ var gamesData = [
   "total_rating": 85,
   "url": "https://www.igdb.com/games/what-remains-of-edith-finch",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbj.jpg"
+},
+  {
+  "game_id": "26195",
+  "title": "WipEout: Omega Collection",
+  "release_date": "2017-06-06",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Clever Beans",
+    "EPOS Game Studios",
+    "Sony XDev",
+    "Creative Vault Studios",
+    "Sony Interactive Entertainment"
+  ],
+  "description": "WipEout: Omega Collection brings together all the content from WipEout HD, WipEout HD Fury and WipEout 2048, enhanced for PS4 and PS4 Pro.",
+  "total_rating": 89,
+  "url": "https://www.igdb.com/games/wipeout-omega-collection",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iv6.jpg"
 },
   {
   "game_id": "204628",
