@@ -4163,6 +4163,26 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26vl.jpg"
 },
   {
+  "game_id": "46800",
+  "title": "Maneater",
+  "release_date": "2020-05-22",
+  "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Tripwire Interactive",
+    "Blindside Interactive",
+    "Shipwright Studios",
+    "Deep Silver"
+  ],
+  "description": "You were cut from your mother's body and left to die in the unforgiving waters of the Gulf Coast. Your only tools are your wits, your jaws, and an uncanny ability to evolve as you feed. Anything and everything is on the menu... provided you kill it before it kills you.",
+  "total_rating": 73,
+  "url": "https://www.igdb.com/games/maneater",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lx6.jpg"
+},
+  {
   "game_id": "94969",
   "title": "Mark of the Ninja Remastered",
   "release_date": "2018-10-09",
