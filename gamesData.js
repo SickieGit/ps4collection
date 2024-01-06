@@ -5192,6 +5192,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.jpg"
 },
   {
+  "game_id": "133922",
+  "title": "Ride 4",
+  "release_date": "2020-10-08",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Milestone"
+  ],
+  "description": "Are you ready to live the best gaming experience that a motorcycle fan can get? RIDE 4 will spark your competitive soul with hundreds of bikes, dozens of tracks and a whole new level of realism.",
+  "total_rating": 66,
+  "url": "https://www.igdb.com/games/ride-4",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27l0.jpg"
+},
+  {
   "game_id": "7323",
   "title": "Rise of the Tomb Raider",
   "release_date": "2016-10-11",
