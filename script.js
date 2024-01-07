@@ -159,13 +159,9 @@ function displayGameInfo(game, event) {
   }
 }
 
-
-
 function navigateTo(url) {
   window.location.href = url;
 }
-
-
 
 function animateProgressBar(targetPercentage) {
   var progressBar = document.querySelector(".progress-bar");

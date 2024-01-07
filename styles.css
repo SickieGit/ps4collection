@@ -188,15 +188,6 @@ input[type=text] {
   max-height: 80vh; /* Set a maximum height to make it scrollable */
 }
 
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
 #gameInfoContainer h2 {
   margin-top: 0;
 }
