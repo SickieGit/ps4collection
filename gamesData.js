@@ -4831,6 +4831,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26c2.jpg"
 },
   {
+  "game_id": "75244",
+  "title": "Onrush",
+  "release_date": "2018-06-05",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Codemasters"
+  ],
+  "description": "Onrush is an all-action arcade racing game like no other. Get ready for the rush!",
+  "total_rating": 73,
+  "url": "https://www.igdb.com/games/onrush",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qw1.jpg"
+},
+  {
   "game_id": "28230",
   "title": "Outlast: Trinity",
   "release_date": "2017-05-25",
