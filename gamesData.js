@@ -3247,6 +3247,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wf6.jpg"
 },
   {
+  "game_id": "122565",
+  "title": "Humanity",
+  "release_date": "2023-05-15",
+  "genres": [
+    "Platform",
+    "Puzzle",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Enhance",
+    "tha ltd."
+  ],
+  "description": "A unique blend of puzzle-solving and action-platforming. Play a lone Shiba Inu charged with commanding massive, marching crowds to the goal in Story Mode, or browse a wide array of user-made levels crafted via the in-game Stage Creator!",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/humanity",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66z7.jpg"
+},
+  {
   "game_id": "119357",
   "title": "Immortals Fenyx Rising",
   "release_date": "2020-12-03",
