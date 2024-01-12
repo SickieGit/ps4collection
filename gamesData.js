@@ -5803,6 +5803,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wk4.jpg"
 },
   {
+  "game_id": "252478",
+  "title": "Sonic Superstars",
+  "release_date": "2023-10-17",
+  "genres": [
+    "Platform"
+  ],
+  "involved_companies": [
+    "Sega",
+    "Arzest",
+    "Sonic Team"
+  ],
+  "description": "Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming. Play as Sonic, Tails, Knuckles, and Amy Rose and harness all-new Emerald powers to move and attack in dynamic new ways. Navigate gorgeous, never-before-seen environments solo or with up to 3 other players and stop Dr. Eggman, Fang, and a mysterious new adversary from converting the islands' giant animals into Badniks before it's too late!",
+  "total_rating": 77,
+  "url": "https://www.igdb.com/games/sonic-superstars",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nm2.jpg"
+},
+  {
   "game_id": "76885",
   "title": "SoulCalibur VI",
   "release_date": "2018-10-19",
