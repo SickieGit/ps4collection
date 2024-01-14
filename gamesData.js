@@ -4971,6 +4971,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/pzgwdpvoww1nrlkv7d5x.jpg"
 },
   {
+  "game_id": "252476",
+  "title": "Prince of Persia: The Lost Crown",
+  "release_date": "2024-01-18",
+  "genres": [
+    "Platform",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Ubisoft Montpellier",
+    "Ubisoft Entertainment"
+  ],
+  "description": "Dash into a stylish and thrilling action-adventure platformer set in a mythological Persian world where the boundaries of time and space are yours to manipulate.\nPlay as Sargon and evolve from sword-wielding prodigy to extraordinary legend as you master acrobatic combat and unlock new Time Powers and unique super abilities.",
+  "total_rating": 86,
+  "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lli.jpg"
+},
+  {
   "game_id": "121173",
   "title": "Project CARS 3",
   "release_date": "2020-08-28",
