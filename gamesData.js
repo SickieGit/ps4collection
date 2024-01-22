@@ -4419,6 +4419,26 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20pq.jpg"
 },
   {
+  "game_id": "138244",
+  "title": "Midnight Fight Express",
+  "release_date": "2022-08-23",
+  "genres": [
+    "Fighting",
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Jacob Dzwinel",
+    "Humble Games"
+  ],
+  "description": "Fight your way across the city in a brutal romp that mixes old school brawlers and fast-paced motion-captured combat. You’re Babyface, a former member of the criminal underworld lured back into “the life” by a mysterious AI drone. Your mission against impossible odds: Fight your way across the city before sunrise, and prevent a citywide criminal takeover together.",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/midnight-fight-express",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3og0.jpg"
+},
+  {
   "game_id": "135400",
   "title": "Minecraft",
   "release_date": "2019-12-19",
