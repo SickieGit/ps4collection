@@ -3343,6 +3343,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xym.jpg"
 },
   {
+  "game_id": "23354",
+  "title": "Injustice: Gods Among Us - Ultimate Edition",
+  "release_date": "2013-11-12",
+  "genres": [
+    "Fighting"
+  ],
+  "involved_companies": [
+    "WB Games",
+    "High Voltage Software"
+  ],
+  "description": "Injustice: Gods Among Us Ultimate Edition enhances the bold new franchise to the fighting game genre from NetherRealm Studios. Featuring six new playable characters, over 30 new skins, and 60 new S.T.A.R. Labs missions, this edition packs a punch. In addition to DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/injustice-gods-among-us-ultimate-edition",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mym.jpg"
+},
+  {
   "game_id": "7342",
   "title": "Inside",
   "release_date": "2016-08-23",
