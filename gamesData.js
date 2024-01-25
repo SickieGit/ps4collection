@@ -4559,6 +4559,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mh.jpg"
 },
   {
+  "game_id": "18150",
+  "title": "Mortal Kombat XL",
+  "release_date": "2016-03-01",
+  "genres": [
+    "Fighting"
+  ],
+  "involved_companies": [
+    "NetherRealm Studios",
+    "High Voltage Software",
+    "QLOC",
+    "WB Games"
+  ],
+  "description": "Mortal Kombat XL is the complete edition of Mortal Kombat X. This includes all downloadable content characters from the two released Kombat Packs, almost all bonus alternate costumes available at the time of release, and improved gameplay, and netcode featuring a rollback system.",
+  "total_rating": 87,
+  "url": "https://www.igdb.com/games/mortal-kombat-xl",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20md.jpg"
+},
+  {
   "game_id": "191857",
   "title": "MotoGP 22",
   "release_date": "2022-04-21",
