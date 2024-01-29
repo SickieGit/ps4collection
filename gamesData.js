@@ -3980,6 +3980,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ln4.jpg"
 },
   {
+  "game_id": "217623",
+  "title": "Like a Dragon: Infinite Wealth",
+  "release_date": "2024-01-26",
+  "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Ryū Ga Gotoku Studios",
+    "Sega"
+  ],
+  "description": "Two larger-than-life heroes, Ichiban Kasuga and Kazuma Kiryu are brought together by the hand of fate, or perhaps something more sinister… Live it up in Japan and explore all that Hawaii has to offer in an RPG adventure so big it spans the Pacific. Like a Dragon 8 is the next installment in the Yakuza series that will feature Ichiban and Kiryu as dual protagonists.",
+  "total_rating": 89,
+  "url": "https://www.igdb.com/games/like-a-dragon-infinite-wealth",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co73u4.jpg"
+},
+  {
   "game_id": "217597",
   "title": "Like a Dragon: Ishin!",
   "release_date": "2023-02-22",
