@@ -1545,6 +1545,26 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2uro.jpg"
 },
   {
+  "game_id": "8965",
+  "title": "Darkest Dungeon",
+  "release_date": "2016-09-27",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "BlitWorks",
+    "Red Hook Studios"
+  ],
+  "description": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
+  "total_rating": 83,
+  "url": "https://www.igdb.com/games/darkest-dungeon",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc4.jpg"
+},
+  {
   "game_id": "119244",
   "title": "Darksiders Genesis",
   "release_date": "2020-02-14",
