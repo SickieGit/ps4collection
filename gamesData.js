@@ -4561,6 +4561,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw4.jpg"
 },
   {
+  "game_id": "182481",
+  "title": "Monster Energy Supercross: The Official Videogame 5",
+  "release_date": "2022-03-17",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Milestone"
+  ],
+  "description": "Hold on fast to the handlebar of your bike because a new chapter of the series has finally arrived. Try Monster Energy Supercross: The Official Videogame 5 and discover the quintessence of indoor supercross! The road to become a true champion starts here. With the new career mode, you'll have to prove your skills on two-wheel bikes to be able to win glory!",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/monster-energy-supercross-the-official-videogame-5",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cge.jpg"
+},
+  {
   "game_id": "118273",
   "title": "Monster Hunter World: Iceborne Master Edition",
   "release_date": "2019-09-06",
@@ -4986,6 +5003,25 @@ var gamesData = [
   "total_rating": 84,
   "url": "https://www.igdb.com/games/pt",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyw.jpg"
+},
+  {
+  "game_id": "252647",
+  "title": "Persona 3 Reload",
+  "release_date": "2024-02-02",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Atlus",
+    "Sega"
+  ],
+  "description": "Step into the shoes of a transfer student thrust into an unexpected fate when entering the hour \"hidden\" between one day and the next. Awaken an incredible power and chase the mysteries of the Dark Hour, fight for your friends, and leave a mark on their memories forever. Persona 3 Reload is a captivating reimagining of the genre-defining RPG, reborn for the modern era.",
+  "total_rating": 91,
+  "url": "https://www.igdb.com/games/persona-3-reload",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z12.jpg"
 },
   {
   "game_id": "114283",
