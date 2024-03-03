@@ -3074,6 +3074,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg"
 },
   {
+  "game_id": "204618",
+  "title": "High on Life",
+  "release_date": "2023-07-23",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Squanch Games"
+  ],
+  "description": "From the mind of Justin Roiland (Rick and Morty, Solar Opposites) comes High On Life. Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/high-on-life",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67qo.jpg"
+},
+  {
   "game_id": "134595",
   "title": "Hitman 3",
   "release_date": "2021-01-20",
@@ -7079,6 +7095,24 @@ var gamesData = [
   "total_rating": 73,
   "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ku7.jpg"
+},
+  {
+  "game_id": "266683",
+  "title": "Tomb Raider I•II•III Remastered",
+  "release_date": "2024-02-14",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Aspyr Media"
+  ],
+  "description": "Discover Lara Croft’s Original Adventures, Lovingly Restored Play the Original Three Tomb Raider Adventures: For the first time ever, play the complete experience with all expansions and secret levels on modern platforms in this definitive collection. Included Game Titles\nTomb Raider I + The Unfinished Business Expansion\nTomb Raider II + The Gold Mask Expansion\nTomb Raider III + The Lost Artifact Expansion",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/tomb-raider-i-star-ii-star-iii-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7qtb.jpg"
 },
   {
   "game_id": "19965",
