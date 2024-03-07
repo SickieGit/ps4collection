@@ -1318,6 +1318,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mx3.jpg"
 },
   {
+  "game_id": "204627",
+  "title": "Cocoon",
+  "release_date": "2023-09-29",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Geometric Interactive",
+    "Annapurna Interactive",
+    "24 Bit Games"
+  ],
+  "description": "Cocoon is a unique take on the puzzle adventure genre, where each world exists within an orb that you can carry on your back. Wrap your head around the core mechanic of leaping between worlds—and combine, manipulate, and rearrange them to solve intricate puzzles",
+  "total_rating": 87,
+  "url": "https://www.igdb.com/games/cocoon",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v2z.jpg"
+},
+  {
   "game_id": "75238",
   "title": "Concrete Genie",
   "release_date": "2019-10-09",
