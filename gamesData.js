@@ -2668,6 +2668,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m35.jpg"
 },
   {
+  "game_id": "27043",
+  "title": "FlatOut 4: Total Insanity",
+  "release_date": "2017-03-17",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Kylotonn Games",
+    "Tiny Rebel Games",
+    "Bigben Interactive",
+    "Strategy First"
+  ],
+  "description": "FlatOut 4: Total Insanity is a return to the franchise's adrenaline-pumping arcade destruction roots. Featuring an exciting blend of white-knuckle speed and wild out-of-control racing tracks, FlatOut 4 promises an intense death-defying demolition derby game featuring muscle cars, race cars, trucks and even a rocket boosted ice cream van!",
+  "total_rating": 64,
+  "url": "https://www.igdb.com/games/flatout-4-total-insanity",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1svu.jpg"
+},
+  {
   "game_id": "14389",
   "title": "Friday the 13th: The Game",
   "release_date": "2017-05-26",
