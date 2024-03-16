@@ -153,6 +153,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iuo.jpg"
 },
   {
+  "game_id": "228258",
+  "title": "Amnesia: The Bunker",
+  "release_date": "2023-06-06",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frictional Games"
+  ],
+  "description": "Amnesia: The Bunker is a first-person horror game set in a desolate WW1 Bunker. Face the oppressing terrors stalking the dark corridors. Search for and use the tools and weapons at your disposal, while keeping the lights on at all costs. Overcome fear, persevere, and make your way out alive.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/amnesia-the-bunker",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5us3.jpg"
+},
+  {
   "game_id": "10032",
   "title": "Ancestors: The Humankind Odyssey",
   "release_date": "2019-12-06",
@@ -4220,20 +4238,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uuh.jpg"
 },
   {
-  "game_id": "243668",
-  "title": "Madden NFL 23",
-  "release_date": "2022-08-19",
+  "game_id": "252167",
+  "title": "Madden NFL 24",
+  "release_date": "2023-08-18",
   "genres": [
-    "Sport"
+    "Simulator",
+    "Sport",
+    "Strategy"
   ],
   "involved_companies": [
-    "EA Sports",
-    "EA Tiburon"
+    "EA Tiburon",
+    "EA Sports"
   ],
-  "description": "Play your way into the history books in Madden NFL 23!\nControl your impact with every decision in all-new ways. Call the shots in Franchise with free agency and trade logic updates, play your way into the history books in Face of the Franchise: The League, and assemble the most powerful roster in all of Madden Ultimate Team.",
-  "total_rating": 76,
-  "url": "https://www.igdb.com/games/madden-nfl-23--1",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eir.jpg"
+  "description": "Experience the newest iteration of FieldSENSE in Madden NFL 24. More realistic character movement and smarter AI gives you control to play out your gameplay strategy with the confidence to dominate any opponent.",
+  "total_rating": 63,
+  "url": "https://www.igdb.com/games/madden-nfl-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lfx.jpg"
 },
   {
   "game_id": "134071",
