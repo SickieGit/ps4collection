@@ -4599,22 +4599,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r2.jpg"
 },
   {
-  "game_id": "188661",
-  "title": "MLB The Show 22",
-  "release_date": "2022-04-05",
+  "game_id": "230593",
+  "title": "MLB The Show 23",
+  "release_date": "2023-03-28",
   "genres": [
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
-    "MLB Advanced Media",
-    "SIE San Diego Studio",
-    "Sony Interactive Entertainment"
+    "Sony Interactive Entertainment",
+    "SIE San Diego Studio"
   ],
-  "description": "Experience faster, deeper and more intense moment-to-moment match action on the field, with a variety of game modes for all you rookie players and returning seasoned vets. Every pitch. Every hit. Every win. Make your mark and Own The Show in MLB The Show 22.",
-  "total_rating": 77,
-  "url": "https://www.igdb.com/games/mlb-the-show-22",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4fcv.jpg"
+  "description": "Shock The Game. Own The Show.",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/mlb-the-show-23",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62mj.jpg"
 },
   {
   "game_id": "77010",
