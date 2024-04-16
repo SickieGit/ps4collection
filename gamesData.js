@@ -7890,21 +7890,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vof.jpg"
 },
   {
-  "game_id": "233028",
-  "title": "WWE 2K23",
-  "release_date": "2023-03-17",
+  "game_id": "283600",
+  "title": "WWE 2K24",
+  "release_date": "2024-03-08",
   "genres": [
+    "Fighting",
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
     "Visual Concepts",
-    "2K Games"
+    "2K"
   ],
-  "description": "WWE 2K23 is Even Stronger with expanded features, gorgeous graphics and a deep roster of WWE Superstars and Legends. 2K Showcase returns as an interactive sports documentary focusing on the 20-year career of John Cena and WarGames is finally here!",
-  "total_rating": 84,
-  "url": "https://www.igdb.com/games/wwe-2k23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61ts.jpg"
+  "description": "Experience WWE 2K24’s bevy of spectacular modes, which includes a tribute to WrestleMania in 2K Showcase of the Immortals, MyRISE, MyFACTION, MyGM, and all-new match types like Guest Referee and Gauntlet.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/wwe-2k24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nta.jpg"
 },
   {
   "game_id": "86268",
