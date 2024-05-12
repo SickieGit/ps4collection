@@ -119,6 +119,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vzu.jpg"
 },
   {
+  "game_id": "204354",
+  "title": "Aliens: Dark Descent",
+  "release_date": "2023-06-20",
+  "genres": [
+    "Strategy",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Tindalos Interactive",
+    "Focus Entertainment"
+  ],
+  "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Planet Lethe.",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/aliens-dark-descent",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6liu.jpg"
+},
+  {
   "game_id": "25082",
   "title": "Amnesia: Collection",
   "release_date": "2016-11-22",
@@ -4384,6 +4401,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39pu.jpg"
 },
   {
+  "game_id": "165347",
+  "title": "Marvel's Midnight Suns",
+  "release_date": "2023-05-11",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Tactical"
+  ],
+  "involved_companies": [
+    "Firaxis Games",
+    "2K Games"
+  ],
+  "description": "Marvel’s Midnight Suns is the ultimate crossover event combining the rich story, character relationships, customization and progression of an RPG with the tactical strategy and combat mechanics of a revolutionary new card-based tactics game. Set in the darker side of the Marvel Universe, you will forge unbreakable bonds with legendary Marvel Super Heroes and dangerous supernatural warriors in the fight against the world’s greatest threat yet…the demonic forces of Lilith and the elder god Chthon.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/marvels-midnight-suns",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofr.jpg"
+},
+  {
   "game_id": "19565",
   "title": "Marvel's Spider-Man",
   "release_date": "2018-09-07",
@@ -5804,6 +5839,23 @@ var gamesData = [
   "total_rating": 77,
   "url": "https://www.igdb.com/games/sherlock-holmes-crimes-punishments",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sqz.jpg"
+},
+  {
+  "game_id": "212664",
+  "title": "Sherlock Holmes: The Awakened",
+  "release_date": "2023-04-11",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frogwares"
+  ],
+  "description": "Experience a nerve-racking Lovecraftian adventure, rebuilt from the ground up with modern graphics and gameplay. Become Sherlock Holmes, and find yourself at the heart of the terrifying Cthulhu Mythos as you investigate a series of mysterious disappearances in Europe and the US.",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/sherlock-holmes-the-awakened--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68l9.jpg"
 },
   {
   "game_id": "11563",
