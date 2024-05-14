@@ -7651,6 +7651,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q8o.jpg"
 },
   {
+  "game_id": "173091",
+  "title": "Wanted: Dead",
+  "release_date": "2023-02-14",
+  "genres": [
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "110 Industries",
+    "Soleil"
+  ],
+  "description": "Wanted: Dead promises \"spectacular melee combat and exciting gunplay,\" and is set in a \"dark and dangerous version of science-fiction Hong Kong where you will need sharpened skills to survive.\"",
+  "total_rating": 64,
+  "url": "https://www.igdb.com/games/wanted-dead",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jfb.jpg"
+},
+  {
   "game_id": "24863",
   "title": "Wasteland 3",
   "release_date": "2020-08-28",
