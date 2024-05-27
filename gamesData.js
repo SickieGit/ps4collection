@@ -1694,6 +1694,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co24hi.jpg"
 },
   {
+  "game_id": "203722",
+  "title": "Dave the Diver",
+  "release_date": "2024-04-16",
+  "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "MINTROCKET",
+    "MINTROCKET"
+  ],
+  "description": "Marine adventure set in the mysterious Blue Hole. Explore the sea with Dave by day, and run a sushi restaurant at night. Uncover the secrets of the Blue Hole, and unwrap this deep sea mystery involving three friends, each with distinct personalities. New adventures await.",
+  "total_rating": 87,
+  "url": "https://www.igdb.com/games/dave-the-diver",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v9d.jpg"
+},
+  {
   "game_id": "19561",
   "title": "Days Gone",
   "release_date": "2019-04-26",
@@ -2432,6 +2450,24 @@ var gamesData = [
   "total_rating": 71,
   "url": "https://www.igdb.com/games/evil-west",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4udq.jpg"
+},
+  {
+  "game_id": "262534",
+  "title": "Expeditions: A MudRunner Game",
+  "release_date": "2024-03-05",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Saber Interactive",
+    "Focus Entertainment"
+  ],
+  "description": "Embark on scientific expeditions with this new off-road adventure from the creators of MudRunner and SnowRunner. Lead research missions as you drive a variety of all-terrain vehicles, using high-tech tools and managing your camp and crew to ensure your success in the wild.",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/expeditions-a-mudrunner-game",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ywx.jpg"
 },
   {
   "game_id": "115851",
@@ -3999,27 +4035,6 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg"
 },
   {
-  "game_id": "7599",
-  "title": "Life is Strange",
-  "release_date": "2015-01-30",
-  "genres": [
-    "Puzzle",
-    "Role-playing (RPG)",
-    "Adventure",
-    "Indie"
-  ],
-  "involved_companies": [
-    "DON'T NOD",
-    "Square Enix",
-    "Feral Interactive",
-    "Pingle Game Studio"
-  ],
-  "description": "Life is Strange is a five part episodic game that sets out to revolutionize story based choice and consequence games by allowing the player to rewind time and affect the past, present and future.",
-  "total_rating": 81,
-  "url": "https://www.igdb.com/games/life-is-strange",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8e.jpg"
-},
-  {
   "game_id": "62151",
   "title": "Life is Strange 2",
   "release_date": "2018-09-27",
@@ -4037,21 +4052,39 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7p.jpg"
 },
   {
-  "game_id": "29004",
-  "title": "Life is Strange: Before the Storm",
-  "release_date": "2017-08-31",
+  "game_id": "144775",
+  "title": "Life is Strange Remastered",
+  "release_date": "2022-02-01",
   "genres": [
-    "Adventure",
-    "Indie"
+    "Role-playing (RPG)",
+    "Adventure"
   ],
   "involved_companies": [
-    "Square Enix",
-    "Deck Nine"
+    "Deck Nine",
+    "DON'T NOD",
+    "Square Enix"
   ],
-  "description": "Life is Strange: Before the Storm is a new three part standalone story adventure set three years before the events of the first game. This time play as Chloe Price, a rebel who forms an unlikely friendship with Rachel Amber in dramatic new story in the BAFTA award winning franchise.",
-  "total_rating": 76,
-  "url": "https://www.igdb.com/games/life-is-strange-before-the-storm",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twj.jpg"
+  "description": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.",
+  "total_rating": 73,
+  "url": "https://www.igdb.com/games/life-is-strange-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vfw.jpg"
+},
+  {
+  "game_id": "144776",
+  "title": "Life is Strange: Before the Storm Remastered",
+  "release_date": "2022-02-01",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "DON'T NOD",
+    "Deck Nine",
+    "Square Enix"
+  ],
+  "description": "Life is Strange: Before the Storm returns with remastered visuals across characters & environments.",
+  "total_rating": 60,
+  "url": "https://www.igdb.com/games/life-is-strange-before-the-storm-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vfx.jpg"
 },
   {
   "game_id": "144765",
@@ -4885,20 +4918,20 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i3y.jpg"
 },
   {
-  "game_id": "214675",
-  "title": "NHL 23",
-  "release_date": "2022-10-14",
+  "game_id": "261413",
+  "title": "NHL 24",
+  "release_date": "2023-10-06",
   "genres": [
     "Sport"
   ],
   "involved_companies": [
-    "EA Sports",
-    "EA Vancouver"
+    "EA Vancouver",
+    "EA Sports"
   ],
-  "description": "NHL 23 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 32nd instalment in the NHL video game series",
-  "total_rating": 74,
-  "url": "https://www.igdb.com/games/nhl-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55mk.jpg"
+  "description": "NHL 24’s all-new gameplay features bring authentic on-ice action to life. Experience the rush and fatigue of a high-pressure game with the Exhaust Engine, where sustained pressure in the attack zone leads to new game-changing effects like goalie fatigue that slows the netminder’s reaction time the more they get worn down with offensive action; change the momentum with Physics-Based Contact as you break the glass and send players into the bench with big body checks; and get unparalleled player command with the new Vision Passing System and Total Control Skill Moves. Chel is more connected than ever with cross-play in all online team play modes, along with HUT Moments, which lets you recreate classic moments in hockey history and today’s biggest plays. Adding an extra layer of authenticity, Flex Moments introduces 75+ new goal celebrations, and a wholly refreshed presentation complements an enriched crowd atmosphere that makes playing the game feel like you’re at the game.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/nhl-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xmf.jpg"
 },
   {
   "game_id": "131999",
