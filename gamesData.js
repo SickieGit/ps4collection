@@ -1930,6 +1930,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co51km.jpg"
 },
   {
+  "game_id": "119257",
+  "title": "Destroy All Humans!",
+  "release_date": "2020-07-28",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Black Forest Games",
+    "THQ Nordic",
+    "NUKKLEAR"
+  ],
+  "description": "A remake of Destroy All Humans!, an action-adventure video game that stands as the inaugural entry in the Destroy All Humans! franchise. It unfolds in 1959 in the United States. The game satirises the lifestyles, pop culture, and political attitudes of that era. Players take on the role of Cryptosporidium 137, a member of the fictional alien race known as \"Furons.\" Functioning as a Furon spy hitman, Cryptosporidium 137 invades Earth with the mission of harvesting human DNA to sustain the cloning process for his species. The remake features new missions, control schemes, upgrades, skins, abilities, and graphical enhancements.",
+  "total_rating": 68,
+  "url": "https://www.igdb.com/games/destroy-all-humans--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g6j.jpg"
+},
+  {
   "game_id": "14362",
   "title": "Detroit: Become Human",
   "release_date": "2018-05-25",
