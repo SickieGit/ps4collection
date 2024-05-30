@@ -4790,9 +4790,9 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20md.jpg"
 },
   {
-  "game_id": "191857",
-  "title": "MotoGP 22",
-  "release_date": "2022-04-21",
+  "game_id": "243215",
+  "title": "MotoGP 23",
+  "release_date": "2023-06-08",
   "genres": [
     "Racing",
     "Simulator",
@@ -4801,10 +4801,10 @@ var gamesData = [
   "involved_companies": [
     "Milestone"
   ],
-  "description": "Start your engines! MotoGP 22 is the most immersive and realistic chapter of the racing simulator series MotoGP yet! Immediate fun from day one with the 2022 official season and the new split-screen mode to challenge your friends.",
-  "total_rating": 78,
-  "url": "https://www.igdb.com/games/motogp-22",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ky4.jpg"
+  "description": "Warm up the engines and break the boundaries between game and reality. The new chapter of your beloved franchise is back with the Official 2023 Championship and a Renewed Career with Rivalries to manage and Turning Points to move faster through the different classes. A new level of realism with the Dynamic Weather and the Flag to Flag will test your skill and strategy, and the multiplayer fun is now enriched more than ever with the cross-play, the new ranking races and the return of the 2-player local split-screen. But that’s not all! Now everyone can be the next champion, thanks to the new neural riding system and the MotoGP Academy.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/motogp-23",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bcl.jpg"
 },
   {
   "game_id": "25901",
