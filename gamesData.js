@@ -4790,9 +4790,9 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20md.jpg"
 },
   {
-  "game_id": "243215",
-  "title": "MotoGP 23",
-  "release_date": "2023-06-08",
+  "game_id": "291932",
+  "title": "MotoGP 24",
+  "release_date": "2024-05-02",
   "genres": [
     "Racing",
     "Simulator",
@@ -4801,10 +4801,10 @@ var gamesData = [
   "involved_companies": [
     "Milestone"
   ],
-  "description": "Warm up the engines and break the boundaries between game and reality. The new chapter of your beloved franchise is back with the Official 2023 Championship and a Renewed Career with Rivalries to manage and Turning Points to move faster through the different classes. A new level of realism with the Dynamic Weather and the Flag to Flag will test your skill and strategy, and the multiplayer fun is now enriched more than ever with the cross-play, the new ranking races and the return of the 2-player local split-screen. But that’s not all! Now everyone can be the next champion, thanks to the new neural riding system and the MotoGP Academy.",
-  "total_rating": 80,
-  "url": "https://www.igdb.com/games/motogp-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bcl.jpg"
+  "description": "Challenge your abilities in MotoGP, Moto2 and Moto3 categories, and immerse yourself in the exhilarating journey of the 2024 campaign. Experience the thrill of official rosters and tracks exclusive to MotoGP24!",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/motogp-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80e3.jpg"
 },
   {
   "game_id": "25901",
