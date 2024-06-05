@@ -2505,22 +2505,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ua0.jpg"
 },
   {
-  "game_id": "240558",
-  "title": "F1 23",
-  "release_date": "2023-06-16",
+  "game_id": "287578",
+  "title": "F1 24",
+  "release_date": "2024-05-31",
   "genres": [
     "Racing",
-    "Simulator",
     "Sport"
   ],
   "involved_companies": [
     "Codemasters",
     "EA Sports"
   ],
-  "description": "The award-winning F1 series is the official videogame of the FIA Formula One World Championship, putting players in the driving seat of the greatest racing spectacle on Earth.",
-  "total_rating": 88,
-  "url": "https://www.igdb.com/games/f1-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g3a.jpg"
+  "description": "Get ready to ignite your passion for racing and get closer to the grid like never before with EA SPORTS F1 24, the official videogame of the 2024 FIA Formula One World Championship",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/f1-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co845w.jpg"
 },
   {
   "game_id": "9630",
