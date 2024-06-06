@@ -1948,6 +1948,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g6j.jpg"
 },
   {
+  "game_id": "171214",
+  "title": "Destroy All Humans! 2: Reprobed",
+  "release_date": "2023-06-23",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Black Forest Games",
+    "THQ Nordic"
+  ],
+  "description": "Destroy All Humans! 2: Reprobed is a video game in the open-world action-adventure genre, serving as a remake of the original 2006 game. It is the sequel to the remade Destroy All Humans! and marks the sixth instalment in the franchise. In this game, players take on the role of Crypto, navigating through diverse global locations such as England, Russia, and the United States. The objective is to complete various missions and overcome human adversaries. The gameplay incorporates a range of weapons and abilities, allowing players to defeat enemies by employing tactics such as mind-controlling humans and utilizing advanced alien technology.",
+  "total_rating": 66,
+  "url": "https://www.igdb.com/games/destroy-all-humans-2-reprobed",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ub3.jpg"
+},
+  {
   "game_id": "14362",
   "title": "Detroit: Become Human",
   "release_date": "2018-05-25",
