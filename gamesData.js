@@ -7328,6 +7328,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg"
 },
   {
+  "game_id": "282959",
+  "title": "TopSpin 2K25",
+  "release_date": "2024-04-26",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Hangar 13",
+    "2K"
+  ],
+  "description": "The worlds of tennis and 2K have collided. TopSpin 2K25 is the next must-play sports game from 2K that fully immerses fans in the world of tennis. For more information on TopSpin 2K25, including release date, game features and more, stay tuned.",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/topspin-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84fw.jpg"
+},
+  {
   "game_id": "1337",
   "title": "Torchlight II",
   "release_date": "2019-09-03",
