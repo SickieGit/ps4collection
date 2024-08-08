@@ -5529,6 +5529,39 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bo0.jpg"
 },
   {
+  "game_id": "23215",
+  "title": "Resident Evil 5 Remastered",
+  "release_date": "2016-08-12",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "The biohazard threat has not ended: Just when it seemed that the menace of Resident Evil had been destroyed, along comes a new terror to send shivers down players' spines. Chris Redfield, returning Resident Evil hero, has followed the path of the evil literally around the globe. After joining a new organization, Chris heads to Africa where the latest bioterrorism threat is literally transforming the people and animals of the city into mindless, maddened creatures. He is joined by a new partner, Sheva Alomar, who lends her strength, intelligence and sharp-shooting skills to the mission. In order to survive, Chris and Sheva must work together to take on the challenges of discovering the truth behind this evil plot. Utilizing a revolutionary new 2-player co-op mode of gameplay, players assume control of either Chris or Sheva and experience Resident Evil in new ways. In Resident Evil 5, Capcom has players fearing the daylight as much as they have feared shadow in previous games.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/resident-evil-5-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jcb.jpg"
+},
+  {
+  "game_id": "41858",
+  "title": "Resident Evil 6 Remastered",
+  "release_date": "2016-03-29",
+  "genres": [
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "Resident Evil 6 Remastered brings the original experience in high definition. The game offers multiple characters, including fan favorites and new faces, along with solo and co-op modes and new challenges for players, different from any other in the Resident Evil franchise. This edition includes all DLC, along with two costumes per main character, originally exclusively unlockable through Residentevil.net, that are now unlockable through the game itself.",
+  "total_rating": 71,
+  "url": "https://www.igdb.com/games/resident-evil-6-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co89lz.jpg"
+},
+  {
   "game_id": "19562",
   "title": "Resident Evil 7: Biohazard",
   "release_date": "2017-01-24",
@@ -5562,6 +5595,22 @@ var gamesData = [
   "total_rating": 85,
   "url": "https://www.igdb.com/games/resident-evil-village",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.jpg"
+},
+  {
+  "game_id": "41862",
+  "title": "Resident Evil: Origins Collection",
+  "release_date": "2016-01-19",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "Experience the early days of the outbreak in Resident Evil Origins Collection, a compilation package of two with two Resident Evil origin stories: Resident Evil 0 and Resident Evil HD . Both terrifying games have been brought to new new levels of horror with new HD visuals, improved sound, widescreen support, an optional modernized control system and more.",
+  "total_rating": 92,
+  "url": "https://www.igdb.com/games/resident-evil-origins-collection",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dnx.jpg"
 },
   {
   "game_id": "133922",
