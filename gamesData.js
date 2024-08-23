@@ -4322,22 +4322,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uuh.jpg"
 },
   {
-  "game_id": "252167",
-  "title": "Madden NFL 24",
-  "release_date": "2023-08-18",
+  "game_id": "301506",
+  "title": "Madden NFL 25",
+  "release_date": "2024-08-16",
   "genres": [
     "Simulator",
     "Sport",
     "Strategy"
   ],
   "involved_companies": [
-    "EA Tiburon",
-    "EA Sports"
+    "EA Orlando",
+    "Electronic Arts"
   ],
-  "description": "Experience the newest iteration of FieldSENSE in Madden NFL 24. More realistic character movement and smarter AI gives you control to play out your gameplay strategy with the confidence to dominate any opponent.",
-  "total_rating": 63,
-  "url": "https://www.igdb.com/games/madden-nfl-24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lfx.jpg"
+  "description": "In EA SPORTS Madden NFL 25, discover the next level of FieldSENSE. This includes a re-engineered physics system, updated features across franchise and other modes as well as brand-new commentary and presentation.",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/madden-nfl-25--3",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8owk.jpg"
 },
   {
   "game_id": "134071",
