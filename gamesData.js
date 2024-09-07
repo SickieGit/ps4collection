@@ -7251,6 +7251,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qsk.jpg"
 },
   {
+  "game_id": "241244",
+  "title": "Tiebreak",
+  "release_date": "2024-08-22",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Big Ant Studios",
+    "Nacon"
+  ],
+  "description": "The official ATP and WTA Tennis game has finally arrived! Become the Number One player in the world, competing for entire seasons against the largest cast of professional tennis players ever united in a tennis videogame.",
+  "total_rating": 65,
+  "url": "https://www.igdb.com/games/tiebreak",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8p6o.jpg"
+},
+  {
   "game_id": "152061",
   "title": "Tiny Tina's Wonderlands",
   "release_date": "2022-03-25",
