@@ -5702,6 +5702,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6knu.jpg"
 },
   {
+  "game_id": "289593",
+  "title": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy",
+  "release_date": "2024-03-06",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "GSC Game World",
+    "GSC Game World"
+  ],
+  "description": "A bundle of the first three S.T.A.L.K.E.R. games released on consoles for the first time.",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/s-dot-t-a-dot-l-k-dot-e-r-dot-legends-of-the-zone-trilogy",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uzc.jpg"
+},
+  {
   "game_id": "134585",
   "title": "Sackboy: A Big Adventure",
   "release_date": "2020-11-12",
@@ -7263,7 +7279,7 @@ var gamesData = [
     "Nacon"
   ],
   "description": "The official ATP and WTA Tennis game has finally arrived! Become the Number One player in the world, competing for entire seasons against the largest cast of professional tennis players ever united in a tennis videogame.",
-  "total_rating": 65,
+  "total_rating": 0,
   "url": "https://www.igdb.com/games/tiebreak",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8p6o.jpg"
 },
