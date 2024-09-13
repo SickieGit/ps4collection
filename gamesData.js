@@ -4843,9 +4843,9 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a5h.jpg"
 },
   {
-  "game_id": "255788",
-  "title": "NBA 2K24",
-  "release_date": "2023-09-08",
+  "game_id": "308034",
+  "title": "NBA 2K25",
+  "release_date": "2024-09-06",
   "genres": [
     "Simulator",
     "Sport"
@@ -4854,10 +4854,10 @@ var gamesData = [
     "Visual Concepts",
     "2K"
   ],
-  "description": "Grab your squad and experience the past, present, and future of hoops culture in NBA 2K24. Enjoy pure, authentic action and limitless personalized MyPLAYER options in MyCAREER. Collect an impressive array of legends and build your perfect lineup in MyTEAM. Relive your favorite eras as a GM or Commissioner in MyNBA. Experience next-level gameplay and lifelike visuals with your favorite NBA and WNBA teams in play now.",
-  "total_rating": 73,
-  "url": "https://www.igdb.com/games/nba-2k24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6pzf.jpg"
+  "description": "Stack wins, raise banners, and make history in NBA 2K25. Command every court with authenticity and realism Powered by ProPLAY, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W.",
+  "total_rating": 84,
+  "url": "https://www.igdb.com/games/nba-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8h2b.jpg"
 },
   {
   "game_id": "119161",
@@ -5713,7 +5713,7 @@ var gamesData = [
     "GSC Game World"
   ],
   "description": "A bundle of the first three S.T.A.L.K.E.R. games released on consoles for the first time.",
-  "total_rating": 78,
+  "total_rating": 0,
   "url": "https://www.igdb.com/games/s-dot-t-a-dot-l-k-dot-e-r-dot-legends-of-the-zone-trilogy",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uzc.jpg"
 },
