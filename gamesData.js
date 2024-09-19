@@ -6330,6 +6330,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg"
 },
   {
+  "game_id": "201156",
+  "title": "Star Wars Jedi: Survivor",
+  "release_date": "2024-09-17",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Electronic Arts",
+    "Respawn Entertainment"
+  ],
+  "description": "The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third-person, galaxy-spanning, action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games. This narratively driven, single-player title picks up five years after the events of Star Wars Jedi: Fallen Order and follows Cal’s increasingly desperate fight as the galaxy descends further into darkness. Pushed to the edges of the galaxy by the Empire, Cal will find himself surrounded by threats new and familiar. As one of the last surviving Jedi Knights, Cal is driven to make a stand during the galaxy’s darkest times — but how far is he willing to go to protect himself, his crew, and the legacy of the Jedi Order?",
+  "total_rating": 84,
+  "url": "https://www.igdb.com/games/star-wars-jedi-survivor",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uzk.jpg"
+},
+  {
   "game_id": "134706",
   "title": "Star Wars: Squadrons",
   "release_date": "2020-10-02",
