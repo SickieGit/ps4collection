@@ -2384,22 +2384,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6619.jpg"
 },
   {
-  "game_id": "256092",
-  "title": "EA Sports FC 24",
-  "release_date": "2023-09-29",
+  "game_id": "308698",
+  "title": "EA Sports FC 25",
+  "release_date": "2024-09-27",
   "genres": [
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
-    "EA Canada",
-    "EA Romania",
-    "Electronic Arts"
+    "EA Sports",
+    "EA Vancouver",
+    "EA Romania"
   ],
-  "description": "EA SPORTS FC 24 is the ultimate football simulation game that lets you play as your favourite stars and teams in the most authentic and immersive way possible. With EA SPORTS FC, you can experience the thrill of the world's biggest competitions, such as the Premier League, UEFA Champions League, UEFA Women's Champions League, La Liga Santander, Bundesliga, Ligue 1, Serie A, CONMEBOL Libertadores, Barclays Women's Super League, NWSL and many more. EA SPORTS FC 24 also features a new brand identity inspired by the triangles that have been part of EA SPORTS football for the past 30 years, from the isometric polygons that make up the game to the chemistry triangles that exist in Ultimate Team to the player indicator across every match. Join the Club and be part of a new Football Club for the future of football we want to build together.",
-  "total_rating": 68,
-  "url": "https://www.igdb.com/games/ea-sports-fc-24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qqa.jpg"
+  "description": "EA SPORTS FC 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+  "total_rating": 86,
+  "url": "https://www.igdb.com/games/ea-sports-fc-25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lno.jpg"
 },
   {
   "game_id": "136560",
