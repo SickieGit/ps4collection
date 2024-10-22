@@ -6630,6 +6630,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymo.jpg"
 },
   {
+  "game_id": "119178",
+  "title": "The Complex",
+  "release_date": "2020-03-31",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Wales Interactive"
+  ],
+  "description": "The Complex is a female-driven, cinematic FMV sci-fi thriller. The interactive movie stars Michelle Mylett, Kate Dickie and Al Weaver. Actors also include Twitch streamer and Xbox UK presenter, Leah Viathan.",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/the-complex",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l6b.jpg"
+},
+  {
   "game_id": "78547",
   "title": "The Council",
   "release_date": "2018-03-13",
