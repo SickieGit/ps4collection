@@ -6221,6 +6221,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nm2.jpg"
 },
   {
+  "game_id": "284716",
+  "title": "Sonic X Shadow Generations",
+  "release_date": "2024-10-22",
+  "genres": [
+    "Platform",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Sonic Team",
+    "Sega"
+  ],
+  "description": "Shadow the Hedgehog is back with Classic and Modern Sonic in Sonic X Shadow Generations, an all-new collection featuring two unique experiences! Play as Shadow in a brand-new story campaign featuring never-before-seen abilities that prove why he's known as the Ultimate Life Form! Speed through iconic stages from Shadow's history, discover hidden secrets in an expansive hub world, and unlock new powers to take on Black Doom and save the world. Sonic X Shadow Generations also includes a complete remaster of the highly acclaimed Sonic Generations, a time-traveling adventure featuring a greatest-hits collection of 3D and 2D Sonic stages, now with upgraded visuals and new bonus content.",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/sonic-x-shadow-generations",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8byo.jpg"
+},
+  {
   "game_id": "76885",
   "title": "SoulCalibur VI",
   "release_date": "2018-10-19",
