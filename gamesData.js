@@ -4735,9 +4735,9 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw4.jpg"
 },
   {
-  "game_id": "182481",
-  "title": "Monster Energy Supercross: The Official Videogame 5",
-  "release_date": "2022-03-17",
+  "game_id": "228861",
+  "title": "Monster Energy Supercross 6: The Official Videogame",
+  "release_date": "2023-03-09",
   "genres": [
     "Racing",
     "Simulator",
@@ -4746,10 +4746,10 @@ var gamesData = [
   "involved_companies": [
     "Milestone"
   ],
-  "description": "Hold on fast to the handlebar of your bike because a new chapter of the series has finally arrived. Try Monster Energy Supercross: The Official Videogame 5 and discover the quintessence of indoor supercross! The road to become a true champion starts here. With the new career mode, you'll have to prove your skills on two-wheel bikes to be able to win glory!",
+  "description": "Mud, sweat, adrenaline, and fun: all the best the motocross and dirt bike world has to offer awaits you in the new Monster Energy Supercross 6!",
   "total_rating": 75,
-  "url": "https://www.igdb.com/games/monster-energy-supercross-the-official-videogame-5",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4cge.jpg"
+  "url": "https://www.igdb.com/games/monster-energy-supercross-6-the-official-videogame",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66ed.jpg"
 },
   {
   "game_id": "118273",
