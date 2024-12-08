@@ -1032,6 +1032,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wky.jpg"
 },
   {
+  "game_id": "302156",
+  "title": "Call of Duty: Black Ops 6",
+  "release_date": "2024-09-06",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "Activision",
+    "Treyarch",
+    "Raven Software"
+  ],
+  "description": "Developed by Treyarch and Raven, Black Ops 6 is a spy action thriller set in the early 90s, a period of transition and upheaval in global politics, characterized by the end of the Cold War and the rise of the United States as a single superpower. With a mind-bending narrative, and unbound by the rules of engagement, this is signature Black Ops. The Black Ops 6 Campaign provides dynamic moment-to-moment gameplay that includes a variety of play spaces with blockbuster set pieces and action-packed moments, high-stakes heists, and cloak-and-dagger spy activity. In a best-in-class Multiplayer experience, players will test their skills across 16 new maps at launch, including 12 core 6v6 maps and 4 Strike maps that can be played 2v2 or 6v6. Black Ops 6 also marks the epic return of Round-Based Zombies, the fan-favorite mode where players will take down hordes of the undead in two brand-new maps at launch. Post-launch, players can look forward to even more exciting maps and groundbreaking experiences dropping into both Multiplayer and Zombies.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/call-of-duty-black-ops-6",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zis.jpg"
+},
+  {
   "game_id": "137001",
   "title": "Call of Duty: Black Ops Cold War",
   "release_date": "2020-11-13",
