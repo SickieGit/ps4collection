@@ -7137,6 +7137,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1l7s.jpg"
 },
   {
+  "game_id": "113119",
+  "title": "The Stanley Parable: Ultra Deluxe",
+  "release_date": "2022-04-27",
+  "genres": [
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "22nd Century Toys",
+    "Crows Crows Crows"
+  ],
+  "description": "The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.",
+  "total_rating": 86,
+  "url": "https://www.igdb.com/games/the-stanley-parable-ultra-deluxe",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p71.jpg"
+},
+  {
   "game_id": "11590",
   "title": "The Surge",
   "release_date": "2017-05-16",
