@@ -6155,6 +6155,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2urq.jpg"
 },
   {
+  "game_id": "314238",
+  "title": "Sniper Elite: Resistance",
+  "release_date": "2025-01-28",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "Rebellion Developments"
+  ],
+  "description": "Offering unparalleled sniping mechanics, stealth and tactical third-person combat, Sniper Elite: Resistance turns the attention of the award-winning series towards a hidden war, far from the front lines, deep within the heart of occupied France.",
+  "total_rating": 83,
+  "url": "https://www.igdb.com/games/sniper-elite-resistance",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9brt.jpg"
+},
+  {
   "game_id": "107155",
   "title": "Sniper Ghost Warrior Contracts",
   "release_date": "2019-11-22",
