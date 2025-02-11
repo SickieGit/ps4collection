@@ -6024,23 +6024,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wmc.jpg"
 },
   {
-  "game_id": "19130",
-  "title": "Sid Meier's Civilization VI",
-  "release_date": "2019-11-22",
+  "game_id": "305006",
+  "title": "Sid Meier's Civilization VII",
+  "release_date": "2025-02-06",
   "genres": [
     "Simulator",
     "Strategy",
-    "Turn-based strategy (TBS)"
+    "Turn-based strategy (TBS)",
+    "Tactical"
   ],
   "involved_companies": [
-    "Firaxis Games",
-    "Aspyr Media",
-    "2K Games"
+    "2K",
+    "Firaxis Games"
   ],
-  "description": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
-  "total_rating": 84,
-  "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r54.jpg"
+  "description": "Rule as one of many legendary leaders from throughout history. Establish your civilization, construct cities and architectural wonders to expand your territory, conquer or cooperate with rival civilizations in pursuit of prosperity, and explore the far reaches of the unknown world. Will you build an empire that stands the test of time?",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/sid-meiers-civilization-vii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8po2.jpg"
 },
   {
   "game_id": "144022",
