@@ -4208,6 +4208,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59yh.jpg"
 },
   {
+  "game_id": "317317",
+  "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "release_date": "2025-02-21",
+  "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Ryu Ga Gotoku Studios",
+    "Sega"
+  ],
+  "description": "A new legend begins as you step into the steel toe boots of Goro Majima, a man who has lost his memory and reinvents himself as a pirate on the open sea. Embark on an over-the-top, modern-day pirate adventure with an ex-yakuza, now pirate captain and his crew as they engage in exhilarating combat on land and sea in the hunt for lost memories and a legendary treasure.",
+  "total_rating": 77,
+  "url": "https://www.igdb.com/games/like-a-dragon-pirate-yakuza-in-hawaii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8u8o.jpg"
+},
+  {
   "game_id": "1331",
   "title": "Limbo",
   "release_date": "2015-02-24",
