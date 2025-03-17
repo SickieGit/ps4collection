@@ -8241,22 +8241,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vof.jpg"
 },
   {
-  "game_id": "283600",
-  "title": "WWE 2K24",
-  "release_date": "2024-03-08",
+  "game_id": "329690",
+  "title": "WWE 2K25",
+  "release_date": "2025-03-07",
   "genres": [
     "Fighting",
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
-    "Visual Concepts",
-    "2K"
+    "2K",
+    "Visual Concepts"
   ],
-  "description": "Experience WWE 2K24’s bevy of spectacular modes, which includes a tribute to WrestleMania in 2K Showcase of the Immortals, MyRISE, MyFACTION, MyGM, and all-new match types like Guest Referee and Gauntlet.",
-  "total_rating": 79,
-  "url": "https://www.igdb.com/games/wwe-2k24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7nta.jpg"
+  "description": "Celebrate The Bloodline in Showcase. Compete online in MyGM. Expanded gameplay includes intergender wrestling, chain wrestling, barricade diving, the return of Promos + much more!",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/wwe-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c1v.jpg"
 },
   {
   "game_id": "86268",
