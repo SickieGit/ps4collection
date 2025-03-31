@@ -573,6 +573,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co790f.jpg"
 },
   {
+  "game_id": "305159",
+  "title": "Atomfall",
+  "release_date": "2025-03-24",
+  "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Rebellion Developments"
+  ],
+  "description": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers.",
+  "total_rating": 71,
+  "url": "https://www.igdb.com/games/atomfall",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dar.jpg"
+},
+  {
   "game_id": "76747",
   "title": "Atomic Heart",
   "release_date": "2023-02-21",
