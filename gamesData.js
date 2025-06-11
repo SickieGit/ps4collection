@@ -2457,24 +2457,6 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6619.jpg"
 },
   {
-  "game_id": "256092",
-  "title": "EA Sports FC 24",
-  "release_date": "2023-09-22",
-  "genres": [
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "EA Romania",
-    "EA Vancouver",
-    "EA Sports"
-  ],
-  "description": "EA SPORTS FC 24 is the ultimate football simulation game that lets you play as your favourite stars and teams in the most authentic and immersive way possible. With EA SPORTS FC, you can experience the thrill of the world's biggest competitions, such as the Premier League, UEFA Champions League, UEFA Women's Champions League, La Liga Santander, Bundesliga, Ligue 1, Serie A, CONMEBOL Libertadores, Barclays Women's Super League, NWSL and many more. EA SPORTS FC 24 also features a new brand identity inspired by the triangles that have been part of EA SPORTS football for the past 30 years, from the isometric polygons that make up the game to the chemistry triangles that exist in Ultimate Team to the player indicator across every match. Join the Club and be part of a new Football Club for the future of football we want to build together.",
-  "total_rating": 63,
-  "url": "https://www.igdb.com/games/ea-sports-fc-24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qqa.jpg"
-},
-  {
   "game_id": "308698",
   "title": "EA Sports FC 25",
   "release_date": "2024-09-20",
@@ -2630,24 +2612,6 @@ var gamesData = [
   "total_rating": 74,
   "url": "https://www.igdb.com/games/f-dot-i-s-dot-t-forged-in-shadow-torch",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ua0.jpg"
-},
-  {
-  "game_id": "240558",
-  "title": "F1 23",
-  "release_date": "2023-06-16",
-  "genres": [
-    "Racing",
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "Codemasters",
-    "EA Sports"
-  ],
-  "description": "The award-winning F1 series is the official videogame of the FIA Formula One World Championship, putting players in the driving seat of the greatest racing spectacle on Earth.",
-  "total_rating": 79,
-  "url": "https://www.igdb.com/games/f1-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g3a.jpg"
 },
   {
   "game_id": "287578",
@@ -4241,26 +4205,6 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lxr.jpg"
 },
   {
-  "game_id": "7599",
-  "title": "Life is Strange",
-  "release_date": "2015-01-30",
-  "genres": [
-    "Puzzle",
-    "Adventure",
-    "Indie"
-  ],
-  "involved_companies": [
-    "DON'T NOD",
-    "Feral Interactive",
-    "Square Enix",
-    "Pingle Game Studio"
-  ],
-  "description": "Life is Strange is a five part episodic game that sets out to revolutionize story based choice and consequence games by allowing the player to rewind time and affect the past, present and future.",
-  "total_rating": 81,
-  "url": "https://www.igdb.com/games/life-is-strange",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r8e.jpg"
-},
-  {
   "game_id": "62151",
   "title": "Life is Strange 2",
   "release_date": "2018-09-27",
@@ -4294,23 +4238,6 @@ var gamesData = [
   "total_rating": 78,
   "url": "https://www.igdb.com/games/life-is-strange-remastered",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vfw.jpg"
-},
-  {
-  "game_id": "29004",
-  "title": "Life is Strange: Before the Storm",
-  "release_date": "2017-08-31",
-  "genres": [
-    "Adventure",
-    "Indie"
-  ],
-  "involved_companies": [
-    "Deck Nine",
-    "Square Enix"
-  ],
-  "description": "Life is Strange: Before the Storm is a new three part standalone story adventure set three years before the events of the first game. This time play as Chloe Price, a rebel who forms an unlikely friendship with Rachel Amber in dramatic new story in the BAFTA award winning franchise.",
-  "total_rating": 76,
-  "url": "https://www.igdb.com/games/life-is-strange-before-the-storm",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twj.jpg"
 },
   {
   "game_id": "144776",
@@ -4549,22 +4476,6 @@ var gamesData = [
   "total_rating": 74,
   "url": "https://www.igdb.com/games/mad-max",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1uuh.jpg"
-},
-  {
-  "game_id": "243668",
-  "title": "Madden NFL 23",
-  "release_date": "2022-08-19",
-  "genres": [
-    "Sport"
-  ],
-  "involved_companies": [
-    "EA Sports",
-    "EA Orlando"
-  ],
-  "description": "Play your way into the history books in Madden NFL 23!\nControl your impact with every decision in all-new ways. Call the shots in Franchise with free agency and trade logic updates, play your way into the history books in Face of the Franchise: The League, and assemble the most powerful roster in all of Madden Ultimate Team.",
-  "total_rating": 0,
-  "url": "https://www.igdb.com/games/madden-nfl-23--1",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eir.jpg"
 },
   {
   "game_id": "301506",
@@ -4947,24 +4858,6 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r2.jpg"
 },
   {
-  "game_id": "188661",
-  "title": "MLB The Show 22",
-  "release_date": "2022-04-05",
-  "genres": [
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "MLB Advanced Media",
-    "SIE San Diego Studio",
-    "Sony Interactive Entertainment"
-  ],
-  "description": "Experience faster, deeper and more intense moment-to-moment match action on the field, with a variety of game modes for all you rookie players and returning seasoned vets. Every pitch. Every hit. Every win. Make your mark and Own The Show in MLB The Show 22.",
-  "total_rating": 77,
-  "url": "https://www.igdb.com/games/mlb-the-show-22",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4fcv.jpg"
-},
-  {
   "game_id": "230593",
   "title": "MLB The Show 23",
   "release_date": "2023-03-28",
@@ -5070,23 +4963,6 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20md.jpg"
 },
   {
-  "game_id": "291932",
-  "title": "MotoGP 24",
-  "release_date": "2024-05-02",
-  "genres": [
-    "Racing",
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "Milestone"
-  ],
-  "description": "Challenge your abilities in MotoGP, Moto2 and Moto3 categories, and immerse yourself in the exhilarating journey of the 2024 campaign. Experience the thrill of official rosters and tracks exclusive to MotoGP24!",
-  "total_rating": 85,
-  "url": "https://www.igdb.com/games/motogp-24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80e3.jpg"
-},
-  {
   "game_id": "333787",
   "title": "MotoGP 25",
   "release_date": "2025-04-30",
@@ -5123,23 +4999,6 @@ var gamesData = [
   "total_rating": 74,
   "url": "https://www.igdb.com/games/my-friend-pedro",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a5h.jpg"
-},
-  {
-  "game_id": "255788",
-  "title": "NBA 2K24",
-  "release_date": "2023-09-08",
-  "genres": [
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "Visual Concepts",
-    "2K"
-  ],
-  "description": "Grab your squad and experience the past, present, and future of hoops culture in NBA 2K24. Enjoy pure, authentic action and limitless personalized MyPLAYER options in MyCAREER. Collect an impressive array of legends and build your perfect lineup in MyTEAM. Relive your favorite eras as a GM or Commissioner in MyNBA. Experience next-level gameplay and lifelike visuals with your favorite NBA and WNBA teams in play now.",
-  "total_rating": 60,
-  "url": "https://www.igdb.com/games/nba-2k24",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m0s.jpg"
 },
   {
   "game_id": "308034",
@@ -5249,22 +5108,6 @@ var gamesData = [
   "total_rating": 75,
   "url": "https://www.igdb.com/games/neighbours-back-from-hell",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2i3y.jpg"
-},
-  {
-  "game_id": "214675",
-  "title": "NHL 23",
-  "release_date": "2022-10-14",
-  "genres": [
-    "Sport"
-  ],
-  "involved_companies": [
-    "EA Sports",
-    "EA Vancouver"
-  ],
-  "description": "NHL 23 is an ice hockey simulation video game developed by EA Vancouver and published by EA Sports. It is the 32nd instalment in the NHL video game series",
-  "total_rating": 69,
-  "url": "https://www.igdb.com/games/nhl-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55mk.jpg"
 },
   {
   "game_id": "261413",
@@ -6346,25 +6189,6 @@ var gamesData = [
   "total_rating": 70,
   "url": "https://www.igdb.com/games/sherlock-holmes-the-devils-daughter",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wmc.jpg"
-},
-  {
-  "game_id": "19130",
-  "title": "Sid Meier's Civilization VI",
-  "release_date": "2019-11-22",
-  "genres": [
-    "Simulator",
-    "Strategy",
-    "Turn-based strategy (TBS)"
-  ],
-  "involved_companies": [
-    "Aspyr Media",
-    "Firaxis Games",
-    "2K Games"
-  ],
-  "description": "Civilization is a turn-based strategy game in which you attempt to build an empire to stand the test of time. Become Ruler of the World by establishing and leading a civilization from the Stone Age to the Information Age. Wage war, conduct diplomacy, advance your culture, and go head-to-head with history’s greatest leaders as you attempt to build the greatest civilization the world has ever known.",
-  "total_rating": 84,
-  "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r54.jpg"
 },
   {
   "game_id": "305006",
@@ -8582,24 +8406,6 @@ var gamesData = [
   "total_rating": 75,
   "url": "https://www.igdb.com/games/wreckfest",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3vof.jpg"
-},
-  {
-  "game_id": "233028",
-  "title": "WWE 2K23",
-  "release_date": "2023-03-14",
-  "genres": [
-    "Fighting",
-    "Simulator",
-    "Sport"
-  ],
-  "involved_companies": [
-    "Visual Concepts",
-    "2K Games"
-  ],
-  "description": "WWE 2K23 is Even Stronger with expanded features, gorgeous graphics and a deep roster of WWE Superstars and Legends. 2K Showcase returns as an interactive sports documentary focusing on the 20-year career of John Cena and WarGames is finally here!",
-  "total_rating": 77,
-  "url": "https://www.igdb.com/games/wwe-2k23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61ts.jpg"
 },
   {
   "game_id": "329690",
