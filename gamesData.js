@@ -123,6 +123,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1vzu.jpg"
 },
   {
+  "game_id": "204354",
+  "title": "Aliens: Dark Descent",
+  "release_date": "2023-06-20",
+  "genres": [
+    "Strategy",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Tindalos Interactive",
+    "Focus Entertainment"
+  ],
+  "description": "Drop into the gripping journey of Aliens: Dark Descent, a squad-based, single-player action game in the iconic Alien franchise. Lead your soldiers in real-time to stop a new and terrifying kind of Xenomorph outbreak on Planet Lethe.",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/aliens-dark-descent",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6liu.jpg"
+},
+  {
   "game_id": "25082",
   "title": "Amnesia: Collection",
   "release_date": "2016-11-22",
@@ -155,6 +172,24 @@ var gamesData = [
   "total_rating": 78,
   "url": "https://www.igdb.com/games/amnesia-rebirth",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2iuo.jpg"
+},
+  {
+  "game_id": "228258",
+  "title": "Amnesia: The Bunker",
+  "release_date": "2023-06-06",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frictional Games"
+  ],
+  "description": "Amnesia: The Bunker is a first-person horror game set in a desolate WW1 Bunker. Face the oppressing terrors stalking the dark corridors. Search for and use the tools and weapons at your disposal, while keeping the lights on at all costs. Overcome fear, persevere, and make your way out alive.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/amnesia-the-bunker",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5us3.jpg"
 },
   {
   "game_id": "10032",
@@ -543,6 +578,23 @@ var gamesData = [
   "total_rating": 72,
   "url": "https://www.igdb.com/games/assetto-corsa-competizione",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co790f.jpg"
+},
+  {
+  "game_id": "305159",
+  "title": "Atomfall",
+  "release_date": "2025-03-24",
+  "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Rebellion Developments"
+  ],
+  "description": "A nuclear disaster has left an area of Britain in tatters. Atomfall, a new survival-action game, will see you explore, scavenge, craft, barter and fight your way through beautifully recreated scenery in search of answers.",
+  "total_rating": 71,
+  "url": "https://www.igdb.com/games/atomfall",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9dar.jpg"
 },
   {
   "game_id": "76747",
@@ -1006,6 +1058,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1wky.jpg"
 },
   {
+  "game_id": "302156",
+  "title": "Call of Duty: Black Ops 6",
+  "release_date": "2024-09-06",
+  "genres": [
+    "Shooter"
+  ],
+  "involved_companies": [
+    "Treyarch",
+    "Activision",
+    "Raven Software"
+  ],
+  "description": "Developed by Treyarch and Raven, Black Ops 6 is a spy action thriller set in the early 90s, a period of transition and upheaval in global politics, characterized by the end of the Cold War and the rise of the United States as a single superpower. With a mind-bending narrative, and unbound by the rules of engagement, this is signature Black Ops. The Black Ops 6 Campaign provides dynamic moment-to-moment gameplay that includes a variety of play spaces with blockbuster set pieces and action-packed moments, high-stakes heists, and cloak-and-dagger spy activity. In a best-in-class Multiplayer experience, players will test their skills across 16 new maps at launch, including 12 core 6v6 maps and 4 Strike maps that can be played 2v2 or 6v6. Black Ops 6 also marks the epic return of Round-Based Zombies, the fan-favorite mode where players will take down hordes of the undead in two brand-new maps at launch. Post-launch, players can look forward to even more exciting maps and groundbreaking experiences dropping into both Multiplayer and Zombies.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/call-of-duty-black-ops-6",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8zis.jpg"
+},
+  {
   "game_id": "137001",
   "title": "Call of Duty: Black Ops Cold War",
   "release_date": "2020-11-13",
@@ -1328,6 +1397,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mx3.jpg"
 },
   {
+  "game_id": "204627",
+  "title": "Cocoon",
+  "release_date": "2023-09-29",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Geometric Interactive",
+    "24 Bit Games",
+    "Annapurna Interactive"
+  ],
+  "description": "Cocoon is a puzzle adventure game developed by Geometric Interactive and published by Annapurna Interactive. Players control a small insect-like creature navigating interconnected worlds contained within orbs, solving environmental puzzles by carrying and using these orbs to manipulate space and progression.",
+  "total_rating": 86,
+  "url": "https://www.igdb.com/games/cocoon",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v2z.jpg"
+},
+  {
   "game_id": "75238",
   "title": "Concrete Genie",
   "release_date": "2019-09-26",
@@ -1561,6 +1649,27 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2uro.jpg"
 },
   {
+  "game_id": "8965",
+  "title": "Darkest Dungeon",
+  "release_date": "2016-09-27",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Tactical",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "BlitWorks",
+    "Red Hook Studios"
+  ],
+  "description": "Darkest Dungeon is a challenging gothic roguelike turn-based RPG about the psychological stresses of adventuring. Recruit, train, and lead a team of flawed heroes against unimaginable horrors, stress, disease, and the ever-encroaching dark. Can you keep your heroes together when all hope is lost?",
+  "total_rating": 83,
+  "url": "https://www.igdb.com/games/darkest-dungeon",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rc4.jpg"
+},
+  {
   "game_id": "119244",
   "title": "Darksiders Genesis",
   "release_date": "2020-02-14",
@@ -1647,6 +1756,24 @@ var gamesData = [
   "total_rating": 79,
   "url": "https://www.igdb.com/games/darksiders-warmastered-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co24hi.jpg"
+},
+  {
+  "game_id": "203722",
+  "title": "Dave the Diver",
+  "release_date": "2024-04-16",
+  "genres": [
+    "Role-playing (RPG)",
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "MINTROCKET",
+    "MINTROCKET"
+  ],
+  "description": "Dave the Diver is an action-adventure and management simulation game developed by Mintrocket. In the game, players control Dave, who spends his days diving into underwater environments to catch fish and gather resources, and his nights managing a sushi restaurant. The gameplay combines real-time underwater exploration and combat with restaurant management mechanics.",
+  "total_rating": 88,
+  "url": "https://www.igdb.com/games/dave-the-diver",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4v9d.jpg"
 },
   {
   "game_id": "19561",
@@ -1865,6 +1992,42 @@ var gamesData = [
   "total_rating": 86,
   "url": "https://www.igdb.com/games/desperados-iii",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co51km.jpg"
+},
+  {
+  "game_id": "119257",
+  "title": "Destroy All Humans!",
+  "release_date": "2020-07-28",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Black Forest Games",
+    "THQ Nordic",
+    "NUKKLEAR"
+  ],
+  "description": "A remake of Destroy All Humans!, an action-adventure video game that stands as the inaugural entry in the Destroy All Humans! franchise. It unfolds in 1959 in the United States. The game satirises the lifestyles, pop culture, and political attitudes of that era. Players take on the role of Cryptosporidium 137, a member of the fictional alien race known as \"Furons.\" Functioning as a Furon spy hitman, Cryptosporidium 137 invades Earth with the mission of harvesting human DNA to sustain the cloning process for his species. The remake features new missions, control schemes, upgrades, skins, abilities, and graphical enhancements.",
+  "total_rating": 68,
+  "url": "https://www.igdb.com/games/destroy-all-humans--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2g6j.jpg"
+},
+  {
+  "game_id": "171214",
+  "title": "Destroy All Humans! 2: Reprobed",
+  "release_date": "2023-06-23",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Black Forest Games",
+    "THQ Nordic"
+  ],
+  "description": "Destroy All Humans! 2: Reprobed is a video game in the open-world action-adventure genre, serving as a remake of the original 2006 game. It is the sequel to the remade Destroy All Humans! and marks the sixth instalment in the franchise. In this game, players take on the role of Crypto, navigating through diverse global locations such as England, Russia, and the United States. The objective is to complete various missions and overcome human adversaries. The gameplay incorporates a range of weapons and abilities, allowing players to defeat enemies by employing tactics such as mind-controlling humans and utilizing advanced alien technology.",
+  "total_rating": 67,
+  "url": "https://www.igdb.com/games/destroy-all-humans-2-reprobed",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ub3.jpg"
 },
   {
   "game_id": "14362",
@@ -2312,6 +2475,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qqa.jpg"
 },
   {
+  "game_id": "308698",
+  "title": "EA Sports FC 25",
+  "release_date": "2024-09-20",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "EA Sports",
+    "EA Vancouver",
+    "EA Romania"
+  ],
+  "description": "EA SPORTS FC 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
+  "total_rating": 71,
+  "url": "https://www.igdb.com/games/ea-sports-fc-25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lno.jpg"
+},
+  {
   "game_id": "136560",
   "title": "EA Sports UFC 4",
   "release_date": "2020-08-14",
@@ -2413,6 +2594,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4udq.jpg"
 },
   {
+  "game_id": "262534",
+  "title": "Expeditions: A MudRunner Game",
+  "release_date": "2024-03-05",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Focus Entertainment",
+    "Saber Interactive"
+  ],
+  "description": "Embark on scientific expeditions with this new off-road adventure from the creators of MudRunner and SnowRunner. Lead research missions as you drive a variety of all-terrain vehicles, using high-tech tools and managing your camp and crew to ensure your success in the wild.",
+  "total_rating": 72,
+  "url": "https://www.igdb.com/games/expeditions-a-mudrunner-game",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ywx.jpg"
+},
+  {
   "game_id": "115851",
   "title": "F.I.S.T.: Forged In Shadow Torch",
   "release_date": "2021-09-07",
@@ -2449,6 +2648,24 @@ var gamesData = [
   "total_rating": 79,
   "url": "https://www.igdb.com/games/f1-23",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g3a.jpg"
+},
+  {
+  "game_id": "287578",
+  "title": "F1 24",
+  "release_date": "2024-05-31",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Codemasters",
+    "EA Sports"
+  ],
+  "description": "Get ready to ignite your passion for racing and get closer to the grid like never before with EA SPORTS F1 24, the official videogame of the 2024 FIA Formula One World Championship",
+  "total_rating": 69,
+  "url": "https://www.igdb.com/games/f1-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co845w.jpg"
 },
   {
   "game_id": "9630",
@@ -2691,6 +2908,24 @@ var gamesData = [
   "total_rating": 79,
   "url": "https://www.igdb.com/games/firewatch",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1m35.jpg"
+},
+  {
+  "game_id": "27043",
+  "title": "FlatOut 4: Total Insanity",
+  "release_date": "2017-03-17",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Kylotonn Games",
+    "Tiny Rebel Games",
+    "Bigben Interactive",
+    "Strategy First"
+  ],
+  "description": "FlatOut 4: Total Insanity is a return to the franchise's adrenaline-pumping arcade destruction roots. Featuring an exciting blend of white-knuckle speed and wild out-of-control racing tracks, FlatOut 4 promises an intense death-defying demolition derby game featuring muscle cars, race cars, trucks and even a rocket boosted ice cream van!",
+  "total_rating": 58,
+  "url": "https://www.igdb.com/games/flatout-4-total-insanity",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1svu.jpg"
 },
   {
   "game_id": "14389",
@@ -3134,6 +3369,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2l7l.jpg"
 },
   {
+  "game_id": "204618",
+  "title": "High on Life",
+  "release_date": "2023-07-23",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Squanch Games"
+  ],
+  "description": "From the mind of Justin Roiland (Rick and Morty, Solar Opposites) comes High On Life. Humanity is being threatened by an alien cartel who wants to use them as drugs. It’s up to you to rescue and partner with charismatic, talking guns, take down Garmantuous and his gang, and save the world!",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/high-on-life",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co67qo.jpg"
+},
+  {
   "game_id": "134595",
   "title": "Hitman 3",
   "release_date": "2021-01-20",
@@ -3334,6 +3585,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wf6.jpg"
 },
   {
+  "game_id": "122565",
+  "title": "Humanity",
+  "release_date": "2023-05-15",
+  "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Enhance",
+    "tha ltd."
+  ],
+  "description": "A unique blend of puzzle-solving and action-platforming. Play a lone Shiba Inu charged with commanding massive, marching crowds to the goal in Story Mode, or browse a wide array of user-made levels crafted via the in-game Stage Creator!",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/humanity",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66z7.jpg"
+},
+  {
   "game_id": "119357",
   "title": "Immortals Fenyx Rising",
   "release_date": "2020-12-03",
@@ -3411,6 +3681,22 @@ var gamesData = [
   "total_rating": 84,
   "url": "https://www.igdb.com/games/injustice-2",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1xym.jpg"
+},
+  {
+  "game_id": "23354",
+  "title": "Injustice: Gods Among Us - Ultimate Edition",
+  "release_date": "2013-11-15",
+  "genres": [
+    "Fighting"
+  ],
+  "involved_companies": [
+    "High Voltage Software",
+    "WB Games"
+  ],
+  "description": "Injustice: Gods Among Us Ultimate Edition enhances the bold new franchise to the fighting game genre from NetherRealm Studios. Featuring six new playable characters, over 30 new skins, and 60 new S.T.A.R. Labs missions, this edition packs a punch. In addition to DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story. Heroes and villains will engage in epic battles on a massive scale in a world where the line between good and evil has been blurred.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/injustice-gods-among-us-ultimate-edition",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1mym.jpg"
 },
   {
   "game_id": "7342",
@@ -3992,6 +4278,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7p.jpg"
 },
   {
+  "game_id": "144775",
+  "title": "Life is Strange Remastered",
+  "release_date": "2022-02-01",
+  "genres": [
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Deck Nine",
+    "DON'T NOD",
+    "Square Enix"
+  ],
+  "description": "Experience the BAFTA award-winning story of Life is Strange now beautifully remastered with enhanced visuals and vastly improved animation using mocap technology.",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/life-is-strange-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vfw.jpg"
+},
+  {
   "game_id": "29004",
   "title": "Life is Strange: Before the Storm",
   "release_date": "2017-08-31",
@@ -4007,6 +4311,23 @@ var gamesData = [
   "total_rating": 76,
   "url": "https://www.igdb.com/games/life-is-strange-before-the-storm",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1twj.jpg"
+},
+  {
+  "game_id": "144776",
+  "title": "Life is Strange: Before the Storm Remastered",
+  "release_date": "2022-02-01",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "DON'T NOD",
+    "Deck Nine",
+    "Square Enix"
+  ],
+  "description": "Life is Strange: Before the Storm returns with remastered visuals across characters & environments.",
+  "total_rating": 62,
+  "url": "https://www.igdb.com/games/life-is-strange-before-the-storm-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vfx.jpg"
 },
   {
   "game_id": "144765",
@@ -4043,6 +4364,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6ln4.jpg"
 },
   {
+  "game_id": "217623",
+  "title": "Like a Dragon: Infinite Wealth",
+  "release_date": "2024-01-26",
+  "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Sega",
+    "Ryu Ga Gotoku Studios"
+  ],
+  "description": "Two larger-than-life heroes, Ichiban Kasuga and Kazuma Kiryu are brought together by the hand of fate, or perhaps something more sinister… Live it up in Japan and explore all that Hawaii has to offer in an RPG adventure so big it spans the Pacific. Like a Dragon 8 is the next installment in the Yakuza series that will feature Ichiban and Kiryu as dual protagonists.",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/like-a-dragon-infinite-wealth",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8356.jpg"
+},
+  {
   "game_id": "217597",
   "title": "Like a Dragon: Ishin!",
   "release_date": "2023-02-17",
@@ -4059,6 +4398,24 @@ var gamesData = [
   "total_rating": 79,
   "url": "https://www.igdb.com/games/like-a-dragon-ishin",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co59yh.jpg"
+},
+  {
+  "game_id": "317317",
+  "title": "Like a Dragon: Pirate Yakuza in Hawaii",
+  "release_date": "2025-02-21",
+  "genres": [
+    "Role-playing (RPG)",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Ryu Ga Gotoku Studios",
+    "Sega"
+  ],
+  "description": "A new legend begins as you step into the steel toe boots of Goro Majima, a man who has lost his memory and reinvents himself as a pirate on the open sea. Embark on an over-the-top, modern-day pirate adventure with an ex-yakuza, now pirate captain and his crew as they engage in exhilarating combat on land and sea in the hunt for lost memories and a legendary treasure.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/like-a-dragon-pirate-yakuza-in-hawaii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8u8o.jpg"
 },
   {
   "game_id": "1331",
@@ -4210,6 +4567,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6eir.jpg"
 },
   {
+  "game_id": "301506",
+  "title": "Madden NFL 25",
+  "release_date": "2024-08-12",
+  "genres": [
+    "Simulator",
+    "Sport",
+    "Strategy"
+  ],
+  "involved_companies": [
+    "EA Orlando",
+    "EA Sports"
+  ],
+  "description": "In EA SPORTS Madden NFL 25, discover the next level of FieldSENSE. This includes a re-engineered physics system, updated features across franchise and other modes as well as brand-new commentary and presentation.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/madden-nfl-25--3",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8owk.jpg"
+},
+  {
   "game_id": "134071",
   "title": "Mafia II: Definitive Edition",
   "release_date": "2020-05-19",
@@ -4260,6 +4635,26 @@ var gamesData = [
   "total_rating": 77,
   "url": "https://www.igdb.com/games/mafia-definitive-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26vl.jpg"
+},
+  {
+  "game_id": "46800",
+  "title": "Maneater",
+  "release_date": "2020-05-22",
+  "genres": [
+    "Role-playing (RPG)",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Blindside Interactive",
+    "Shipwright Studios",
+    "Deep Silver",
+    "Tripwire Interactive"
+  ],
+  "description": "You were cut from your mother's body and left to die in the unforgiving waters of the Gulf Coast. Your only tools are your wits, your jaws, and an uncanny ability to evolve as you feed. Anything and everything is on the menu... provided you kill it before it kills you.",
+  "total_rating": 73,
+  "url": "https://www.igdb.com/games/maneater",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1lx6.jpg"
 },
   {
   "game_id": "94969",
@@ -4317,6 +4712,24 @@ var gamesData = [
   "total_rating": 81,
   "url": "https://www.igdb.com/games/marvels-guardians-of-the-galaxy",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co39pu.jpg"
+},
+  {
+  "game_id": "165347",
+  "title": "Marvel's Midnight Suns",
+  "release_date": "2023-05-11",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Tactical"
+  ],
+  "involved_companies": [
+    "2K Games",
+    "Firaxis Games"
+  ],
+  "description": "Marvel's Midnight Suns is a tactical role-playing game developed by Firaxis Games and published by 2K Games. The game is set in the Marvel Universe and features a blend of strategy, role-playing, and card-based combat mechanics. In the game, players take on the role of \"The Hunter,\" a customisable original character, and lead a team of Marvel superheroes. The story revolves around battling the demonic forces of Lilith, the Mother of Demons, who has been resurrected by the nefarious group Hydra. The gameplay involves strategic, turn-based combat, where players use a deck of ability cards to perform attacks, skills, and buffs. Between missions, players can explore the Abbey, the game's hub area, where they can interact with other heroes, upgrade abilities, and make decisions that affect the story and character relationships.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/marvels-midnight-suns",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3ofr.jpg"
 },
   {
   "game_id": "19565",
@@ -4481,6 +4894,26 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20pq.jpg"
 },
   {
+  "game_id": "138244",
+  "title": "Midnight Fight Express",
+  "release_date": "2022-08-23",
+  "genres": [
+    "Fighting",
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Jacob Dzwinel",
+    "Humble Games"
+  ],
+  "description": "Fight your way across the city in a brutal romp that mixes old school brawlers and fast-paced motion-captured combat. You’re Babyface, a former member of the criminal underworld lured back into “the life” by a mysterious AI drone. Your mission against impossible odds: Fight your way across the city before sunrise, and prevent a citywide criminal takeover together.",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/midnight-fight-express",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3og0.jpg"
+},
+  {
   "game_id": "135400",
   "title": "Minecraft",
   "release_date": "2019-12-09",
@@ -4532,6 +4965,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4fcv.jpg"
 },
   {
+  "game_id": "230593",
+  "title": "MLB The Show 23",
+  "release_date": "2023-03-28",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Sony Interactive Entertainment",
+    "SIE San Diego Studio"
+  ],
+  "description": "Shock The Game. Own The Show.",
+  "total_rating": 83,
+  "url": "https://www.igdb.com/games/mlb-the-show-23",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62mj.jpg"
+},
+  {
   "game_id": "77010",
   "title": "Monopoly Family Fun Pack",
   "release_date": "2014-11-27",
@@ -4547,6 +4997,23 @@ var gamesData = [
   "total_rating": 58,
   "url": "https://www.igdb.com/games/monopoly-family-fun-pack",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gw4.jpg"
+},
+  {
+  "game_id": "228861",
+  "title": "Monster Energy Supercross 6: The Official Videogame",
+  "release_date": "2023-03-09",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Milestone"
+  ],
+  "description": "Mud, sweat, adrenaline, and fun: all the best the motocross and dirt bike world has to offer awaits you in the new Monster Energy Supercross 6!",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/monster-energy-supercross-6-the-official-videogame",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co66ed.jpg"
 },
   {
   "game_id": "118273",
@@ -4583,6 +5050,41 @@ var gamesData = [
   "total_rating": 81,
   "url": "https://www.igdb.com/games/mortal-kombat-11",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20mh.jpg"
+},
+  {
+  "game_id": "18150",
+  "title": "Mortal Kombat XL",
+  "release_date": "2016-03-01",
+  "genres": [
+    "Fighting"
+  ],
+  "involved_companies": [
+    "QLOC",
+    "NetherRealm Studios",
+    "High Voltage Software",
+    "WB Games"
+  ],
+  "description": "Mortal Kombat XL is the complete edition of Mortal Kombat X. This includes all downloadable content characters from the two released Kombat Packs, almost all bonus alternate costumes available at the time of release, and improved gameplay, and netcode featuring a rollback system.",
+  "total_rating": 87,
+  "url": "https://www.igdb.com/games/mortal-kombat-xl",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20md.jpg"
+},
+  {
+  "game_id": "291932",
+  "title": "MotoGP 24",
+  "release_date": "2024-05-02",
+  "genres": [
+    "Racing",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Milestone"
+  ],
+  "description": "Challenge your abilities in MotoGP, Moto2 and Moto3 categories, and immerse yourself in the exhilarating journey of the 2024 campaign. Experience the thrill of official rosters and tracks exclusive to MotoGP24!",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/motogp-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co80e3.jpg"
 },
   {
   "game_id": "333787",
@@ -4638,6 +5140,23 @@ var gamesData = [
   "total_rating": 60,
   "url": "https://www.igdb.com/games/nba-2k24",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8m0s.jpg"
+},
+  {
+  "game_id": "308034",
+  "title": "NBA 2K25",
+  "release_date": "2024-09-04",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Visual Concepts",
+    "2K"
+  ],
+  "description": "Stack wins, raise banners, and make history in NBA 2K25. Command every court with authenticity and realism Powered by ProPLAY, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W.",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/nba-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8te0.jpg"
 },
   {
   "game_id": "119161",
@@ -4746,6 +5265,22 @@ var gamesData = [
   "total_rating": 69,
   "url": "https://www.igdb.com/games/nhl-23",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co55mk.jpg"
+},
+  {
+  "game_id": "261413",
+  "title": "NHL 24",
+  "release_date": "2023-10-06",
+  "genres": [
+    "Sport"
+  ],
+  "involved_companies": [
+    "EA Vancouver",
+    "EA Sports"
+  ],
+  "description": "NHL 24’s all-new gameplay features bring authentic on-ice action to life. Experience the rush and fatigue of a high-pressure game with the Exhaust Engine, where sustained pressure in the attack zone leads to new game-changing effects like goalie fatigue that slows the netminder’s reaction time the more they get worn down with offensive action; change the momentum with Physics-Based Contact as you break the glass and send players into the bench with big body checks; and get unparalleled player command with the new Vision Passing System and Total Control Skill Moves. Chel is more connected than ever with cross-play in all online team play modes, along with HUT Moments, which lets you recreate classic moments in hockey history and today’s biggest plays. Adding an extra layer of authenticity, Flex Moments introduces 75+ new goal celebrations, and a wholly refreshed presentation complements an enriched crowd atmosphere that makes playing the game feel like you’re at the game.",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/nhl-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6xmf.jpg"
 },
   {
   "game_id": "131999",
@@ -4916,6 +5451,37 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co26c2.jpg"
 },
   {
+  "game_id": "75244",
+  "title": "Onrush",
+  "release_date": "2018-06-05",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Codemasters"
+  ],
+  "description": "Onrush is an all-action arcade racing game like no other. Get ready for the rush!",
+  "total_rating": 72,
+  "url": "https://www.igdb.com/games/onrush",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2qw1.jpg"
+},
+  {
+  "game_id": "14390",
+  "title": "Outlast II",
+  "release_date": "2017-04-25",
+  "genres": [
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Red Barrels"
+  ],
+  "description": "Outlast 2 is the sequel to the acclaimed survival horror game Outlast. Set in the same universe as the first game, but with different characters and a different setting, Outlast 2 is a twisted new journey into the depths of the human mind and its dark secrets. No conflict is ever black and white.",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/outlast-ii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co20x8.jpg"
+},
+  {
   "game_id": "28230",
   "title": "Outlast: Trinity",
   "release_date": "2017-05-25",
@@ -4944,6 +5510,26 @@ var gamesData = [
   "total_rating": 84,
   "url": "https://www.igdb.com/games/pt",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2vyw.jpg"
+},
+  {
+  "game_id": "252647",
+  "title": "Persona 3 Reload",
+  "release_date": "2024-02-02",
+  "genres": [
+    "Role-playing (RPG)",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Sega",
+    "Atlus",
+    "P Studio"
+  ],
+  "description": "Step into the shoes of a transfer student thrust into an unexpected fate when entering the hour \"hidden\" between one day and the next. Awaken an incredible power and chase the mysteries of the Dark Hour, fight for your friends, and leave a mark on their memories forever. Persona 3 Reload is a captivating reimagining of the genre-defining RPG, reborn for the modern era.",
+  "total_rating": 89,
+  "url": "https://www.igdb.com/games/persona-3-reload",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z12.jpg"
 },
   {
   "game_id": "114283",
@@ -5021,6 +5607,23 @@ var gamesData = [
   "total_rating": 78,
   "url": "https://www.igdb.com/games/prey--1",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9aoh.jpg"
+},
+  {
+  "game_id": "252476",
+  "title": "Prince of Persia: The Lost Crown",
+  "release_date": "2024-01-18",
+  "genres": [
+    "Platform",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Ubisoft Entertainment",
+    "Ubisoft Montpellier"
+  ],
+  "description": "Prince of Persia: The Lost Crown is a 2.5D action-adventure platformer. It follows Sargon, a warrior searching for a kidnapped prince in the cursed city of Mount Qaf. The game features acrobatic platforming, time-based powers, and a Metroidvania-style world.",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/prince-of-persia-the-lost-crown",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6lli.jpg"
 },
   {
   "game_id": "121173",
@@ -5266,6 +5869,39 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6bo0.jpg"
 },
   {
+  "game_id": "23215",
+  "title": "Resident Evil 5 Remastered",
+  "release_date": "2016-08-12",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "The biohazard threat has not ended: Just when it seemed that the menace of Resident Evil had been destroyed, along comes a new terror to send shivers down players' spines. Chris Redfield, returning Resident Evil hero, has followed the path of the evil literally around the globe. After joining a new organization, Chris heads to Africa where the latest bioterrorism threat is literally transforming the people and animals of the city into mindless, maddened creatures. He is joined by a new partner, Sheva Alomar, who lends her strength, intelligence and sharp-shooting skills to the mission. In order to survive, Chris and Sheva must work together to take on the challenges of discovering the truth behind this evil plot. Utilizing a revolutionary new 2-player co-op mode of gameplay, players assume control of either Chris or Sheva and experience Resident Evil in new ways. In Resident Evil 5, Capcom has players fearing the daylight as much as they have feared shadow in previous games.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/resident-evil-5-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1jcb.jpg"
+},
+  {
+  "game_id": "41858",
+  "title": "Resident Evil 6 Remastered",
+  "release_date": "2016-03-29",
+  "genres": [
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "Resident Evil 6 Remastered brings the original experience in high definition. The game offers multiple characters, including fan favorites and new faces, along with solo and co-op modes and new challenges for players, different from any other in the Resident Evil franchise. This edition includes all DLC, along with two costumes per main character, originally exclusively unlockable through Residentevil.net, that are now unlockable through the game itself.",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/resident-evil-6-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co89lz.jpg"
+},
+  {
   "game_id": "19562",
   "title": "Resident Evil 7: Biohazard",
   "release_date": "2017-01-24",
@@ -5299,6 +5935,22 @@ var gamesData = [
   "total_rating": 85,
   "url": "https://www.igdb.com/games/resident-evil-village",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2zpu.jpg"
+},
+  {
+  "game_id": "41862",
+  "title": "Resident Evil: Origins Collection",
+  "release_date": "2016-01-19",
+  "genres": [
+    "Shooter",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Capcom"
+  ],
+  "description": "Experience the early days of the outbreak in Resident Evil Origins Collection, a compilation package of two with two Resident Evil origin stories: Resident Evil 0 and Resident Evil HD . Both terrifying games have been brought to new new levels of horror with new HD visuals, improved sound, widescreen support, an optional modernized control system and more.",
+  "total_rating": 92,
+  "url": "https://www.igdb.com/games/resident-evil-origins-collection",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3dnx.jpg"
 },
   {
   "game_id": "133922",
@@ -5388,6 +6040,23 @@ var gamesData = [
   "total_rating": 77,
   "url": "https://www.igdb.com/games/ruiner",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6knu.jpg"
+},
+  {
+  "game_id": "289593",
+  "title": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy",
+  "release_date": "2024-03-06",
+  "genres": [
+    "Shooter",
+    "Role-playing (RPG)"
+  ],
+  "involved_companies": [
+    "GSC Game World",
+    "GSC Game World"
+  ],
+  "description": "A bundle of the first three S.T.A.L.K.E.R. games released on consoles for the first time.",
+  "total_rating": 0,
+  "url": "https://www.igdb.com/games/s-dot-t-a-dot-l-k-dot-e-r-dot-legends-of-the-zone-trilogy",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uzc.jpg"
 },
   {
   "game_id": "134585",
@@ -5645,6 +6314,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1sqz.jpg"
 },
   {
+  "game_id": "212664",
+  "title": "Sherlock Holmes: The Awakened",
+  "release_date": "2023-04-11",
+  "genres": [
+    "Puzzle",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Frogwares"
+  ],
+  "description": "Experience a nerve-racking Lovecraftian adventure, rebuilt from the ground up with modern graphics and gameplay. Become Sherlock Holmes, and find yourself at the heart of the terrifying Cthulhu Mythos as you investigate a series of mysterious disappearances in Europe and the US.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/sherlock-holmes-the-awakened--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co68l9.jpg"
+},
+  {
   "game_id": "11563",
   "title": "Sherlock Holmes: The Devil's Daughter",
   "release_date": "2016-06-10",
@@ -5679,6 +6365,25 @@ var gamesData = [
   "total_rating": 84,
   "url": "https://www.igdb.com/games/sid-meiers-civilization-vi",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5r54.jpg"
+},
+  {
+  "game_id": "305006",
+  "title": "Sid Meier's Civilization VII",
+  "release_date": "2025-02-06",
+  "genres": [
+    "Simulator",
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Tactical"
+  ],
+  "involved_companies": [
+    "2K",
+    "Firaxis Games"
+  ],
+  "description": "Rule as one of many legendary leaders from throughout history. Establish your civilization, construct cities and architectural wonders to expand your territory, conquer or cooperate with rival civilizations in pursuit of prosperity, and explore the far reaches of the unknown world. Will you build an empire that stands the test of time?",
+  "total_rating": 75,
+  "url": "https://www.igdb.com/games/sid-meiers-civilization-vii",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8po2.jpg"
 },
   {
   "game_id": "144022",
@@ -5792,6 +6497,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2urq.jpg"
 },
   {
+  "game_id": "314238",
+  "title": "Sniper Elite: Resistance",
+  "release_date": "2025-01-28",
+  "genres": [
+    "Shooter",
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Rebellion Developments"
+  ],
+  "description": "Offering unparalleled sniping mechanics, stealth and tactical third-person combat, Sniper Elite: Resistance turns the attention of the award-winning series towards a hidden war, far from the front lines, deep within the heart of occupied France.",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/sniper-elite-resistance",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9brt.jpg"
+},
+  {
   "game_id": "107155",
   "title": "Sniper Ghost Warrior Contracts",
   "release_date": "2019-11-22",
@@ -5856,6 +6578,40 @@ var gamesData = [
   "total_rating": 78,
   "url": "https://www.igdb.com/games/snowrunner",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wk4.jpg"
+},
+  {
+  "game_id": "252478",
+  "title": "Sonic Superstars",
+  "release_date": "2023-10-17",
+  "genres": [
+    "Platform"
+  ],
+  "involved_companies": [
+    "Sonic Team",
+    "Arzest",
+    "Sega"
+  ],
+  "description": "Adventure through the mystical Northstar Islands in this all-new take on classic 2D Sonic high-speed action platforming. Play as Sonic, Tails, Knuckles, and Amy Rose and harness all-new Emerald powers to move and attack in dynamic new ways. Navigate gorgeous, never-before-seen environments solo or with up to 3 other players and stop Dr. Eggman, Fang, and a mysterious new adversary from converting the islands' giant animals into Badniks before it's too late!",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/sonic-superstars",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6nm2.jpg"
+},
+  {
+  "game_id": "284716",
+  "title": "Sonic X Shadow Generations",
+  "release_date": "2024-10-22",
+  "genres": [
+    "Platform",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Sega",
+    "Sonic Team"
+  ],
+  "description": "Shadow the Hedgehog is back with Classic and Modern Sonic in Sonic X Shadow Generations, an all-new collection featuring two unique experiences! Play as Shadow in a brand-new story campaign featuring never-before-seen abilities that prove why he's known as the Ultimate Life Form! Speed through iconic stages from Shadow's history, discover hidden secrets in an expansive hub world, and unlock new powers to take on Black Doom and save the world. Sonic X Shadow Generations also includes a complete remaster of the highly acclaimed Sonic Generations, a time-traveling adventure featuring a greatest-hits collection of 3D and 2D Sonic stages, now with upgraded visuals and new bonus content.",
+  "total_rating": 81,
+  "url": "https://www.igdb.com/games/sonic-x-shadow-generations",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8byo.jpg"
 },
   {
   "game_id": "76885",
@@ -5966,6 +6722,22 @@ var gamesData = [
   "total_rating": 82,
   "url": "https://www.igdb.com/games/star-wars-jedi-fallen-order",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1rbi.jpg"
+},
+  {
+  "game_id": "201156",
+  "title": "Star Wars Jedi: Survivor",
+  "release_date": "2024-09-17",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Electronic Arts",
+    "Respawn Entertainment"
+  ],
+  "description": "The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third-person, galaxy-spanning, action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games. This narratively driven, single-player title picks up five years after the events of Star Wars Jedi: Fallen Order and follows Cal’s increasingly desperate fight as the galaxy descends further into darkness. Pushed to the edges of the galaxy by the Empire, Cal will find himself surrounded by threats new and familiar. As one of the last surviving Jedi Knights, Cal is driven to make a stand during the galaxy’s darkest times — but how far is he willing to go to protect himself, his crew, and the legacy of the Jedi Order?",
+  "total_rating": 84,
+  "url": "https://www.igdb.com/games/star-wars-jedi-survivor",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5uzk.jpg"
 },
   {
   "game_id": "134706",
@@ -6251,6 +7023,21 @@ var gamesData = [
   "total_rating": 68,
   "url": "https://www.igdb.com/games/the-callisto-protocol",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4ymo.jpg"
+},
+  {
+  "game_id": "119178",
+  "title": "The Complex",
+  "release_date": "2020-03-31",
+  "genres": [
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Wales Interactive"
+  ],
+  "description": "The Complex is a female-driven, cinematic FMV sci-fi thriller. The interactive movie stars Michelle Mylett, Kate Dickie and Al Weaver. Actors also include Twitch streamer and Xbox UK presenter, Leah Viathan.",
+  "total_rating": 70,
+  "url": "https://www.igdb.com/games/the-complex",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l6b.jpg"
 },
   {
   "game_id": "78547",
@@ -6711,6 +7498,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7kpe.jpg"
 },
   {
+  "game_id": "113119",
+  "title": "The Stanley Parable: Ultra Deluxe",
+  "release_date": "2022-04-27",
+  "genres": [
+    "Simulator",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "22nd Century Toys",
+    "Crows Crows Crows"
+  ],
+  "description": "The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.",
+  "total_rating": 85,
+  "url": "https://www.igdb.com/games/the-stanley-parable-ultra-deluxe",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4p71.jpg"
+},
+  {
   "game_id": "11590",
   "title": "The Surge",
   "release_date": "2017-05-16",
@@ -6909,6 +7713,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1qsk.jpg"
 },
   {
+  "game_id": "241244",
+  "title": "Tiebreak",
+  "release_date": "2024-08-22",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Big Ant Studios",
+    "Nacon"
+  ],
+  "description": "The official ATP and WTA Tennis game has finally arrived! Become the Number One player in the world, competing for entire seasons against the largest cast of professional tennis players ever united in a tennis videogame.",
+  "total_rating": 0,
+  "url": "https://www.igdb.com/games/tiebreak",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8p6o.jpg"
+},
+  {
   "game_id": "152061",
   "title": "Tiny Tina's Wonderlands",
   "release_date": "2022-03-25",
@@ -6986,6 +7807,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ku7.jpg"
 },
   {
+  "game_id": "266683",
+  "title": "Tomb Raider I•II•III Remastered",
+  "release_date": "2024-02-14",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Aspyr Media"
+  ],
+  "description": "Discover Lara Croft’s Original Adventures, Lovingly Restored Play the Original Three Tomb Raider Adventures: For the first time ever, play the complete experience with all expansions and secret levels on modern platforms in this definitive collection. Included Game Titles\nTomb Raider I + The Unfinished Business Expansion\nTomb Raider II + The Gold Mask Expansion\nTomb Raider III + The Lost Artifact Expansion",
+  "total_rating": 82,
+  "url": "https://www.igdb.com/games/tomb-raider-i-star-ii-star-iii-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xte.jpg"
+},
+  {
   "game_id": "19965",
   "title": "Tomb Raider: Definitive Edition",
   "release_date": "2014-01-28",
@@ -7024,6 +7863,23 @@ var gamesData = [
   "total_rating": 86,
   "url": "https://www.igdb.com/games/tony-hawks-pro-skater-1-plus-2",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg"
+},
+  {
+  "game_id": "282959",
+  "title": "TopSpin 2K25",
+  "release_date": "2024-04-26",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Hangar 13",
+    "2K"
+  ],
+  "description": "The worlds of tennis and 2K have collided. TopSpin 2K25 is the next must-play sports game from 2K that fully immerses fans in the world of tennis. For more information on TopSpin 2K25, including release date, game features and more, stay tuned.",
+  "total_rating": 74,
+  "url": "https://www.igdb.com/games/topspin-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co84fw.jpg"
 },
   {
   "game_id": "1337",
@@ -7422,6 +8278,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lrg.jpg"
 },
   {
+  "game_id": "173091",
+  "title": "Wanted: Dead",
+  "release_date": "2023-02-14",
+  "genres": [
+    "Shooter",
+    "Hack and slash/Beat 'em up",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "110 Industries",
+    "Soleil"
+  ],
+  "description": "Wanted: Dead promises \"spectacular melee combat and exciting gunplay,\" and is set in a \"dark and dangerous version of science-fiction Hong Kong where you will need sharpened skills to survive.\"",
+  "total_rating": 57,
+  "url": "https://www.igdb.com/games/wanted-dead",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jfb.jpg"
+},
+  {
   "game_id": "24863",
   "title": "Wasteland 3",
   "release_date": "2020-08-28",
@@ -7726,6 +8600,24 @@ var gamesData = [
   "total_rating": 77,
   "url": "https://www.igdb.com/games/wwe-2k23",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co61ts.jpg"
+},
+  {
+  "game_id": "329690",
+  "title": "WWE 2K25",
+  "release_date": "2025-03-07",
+  "genres": [
+    "Fighting",
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "2K",
+    "Visual Concepts"
+  ],
+  "description": "Celebrate The Bloodline in Showcase. Compete online in MyGM. Expanded gameplay includes intergender wrestling, chain wrestling, barricade diving, the return of Promos + much more!",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/wwe-2k25",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9c1v.jpg"
 },
   {
   "game_id": "86268",
