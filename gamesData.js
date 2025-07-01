@@ -4858,21 +4858,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co28r2.jpg"
 },
   {
-  "game_id": "230593",
-  "title": "MLB The Show 23",
-  "release_date": "2023-03-28",
+  "game_id": "282900",
+  "title": "MLB The Show 24",
+  "release_date": "2024-03-19",
   "genres": [
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
-    "Sony Interactive Entertainment",
-    "SIE San Diego Studio"
+    "SIE San Diego Studio",
+    "Sony Interactive Entertainment"
   ],
-  "description": "Shock The Game. Own The Show.",
-  "total_rating": 83,
-  "url": "https://www.igdb.com/games/mlb-the-show-23",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co62mj.jpg"
+  "description": "Swing for the fences, experience game-deciding moments, become a legend and live out your baseball dreams in MLB The Show 24. Earn your call up from the minors to the big leagues and prove you’ve got what it takes at the top. Learn about known and unsung legends of the sport and take inspiration from their heroics. Hold your nerve when it matters and earn the right to be called World Series champions.",
+  "total_rating": 79,
+  "url": "https://www.igdb.com/games/mlb-the-show-24",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ozy.jpg"
 },
   {
   "game_id": "77010",
@@ -7629,6 +7629,24 @@ var gamesData = [
   "total_rating": 73,
   "url": "https://www.igdb.com/games/tom-clancys-ghost-recon-wildlands",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ku7.jpg"
+},
+  {
+  "game_id": "319480",
+  "title": "Tomb Raider IV•V•VI Remastered",
+  "release_date": "2025-02-14",
+  "genres": [
+    "Shooter",
+    "Puzzle",
+    "Strategy",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Aspyr Media"
+  ],
+  "description": "Remastered collection of the Darkness Trilogy includes: Tomb Raider: The Last Revelation – Lara Croft discovers the lost tomb of the Egyptian God Set, unwittingly unleashing him and fulfilling an ancient prophecy—one that plunges mankind into darkness. Tomb Raider: Chronicles – Following the events of The Last Revelation, Lara Croft is buried in an Egyptian tomb and is presumed dead. At her memorial, those closest to her reminisce about secrets from her past. Tomb Raider: The Angel of Darkness – Accused of murder, Lara becomes a fugitive on the run, while uncovering a sinister conspiracy involving alchemical experiments and the search for ancient artifacts.",
+  "total_rating": 78,
+  "url": "https://www.igdb.com/games/tomb-raider-iv-star-v-star-vi-remastered",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8xtf.jpg"
 },
   {
   "game_id": "266683",
