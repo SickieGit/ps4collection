@@ -7707,6 +7707,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co25u7.jpg"
 },
   {
+  "game_id": "334243",
+  "title": "Tony Hawk's Pro Skater 3+4",
+  "release_date": "2025-07-11",
+  "genres": [
+    "Simulator",
+    "Sport"
+  ],
+  "involved_companies": [
+    "Activision",
+    "Iron Galaxy Studios"
+  ],
+  "description": "Get hyped for the legendary franchise to return with Tony Hawk’s Pro Skater 3 + 4. Everything you loved is back, but revamped with more skaters, new parks, gnarlier tricks, eardrum shattering music, plus a whole lot more.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/tony-hawks-pro-skater-3-plus-4",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9hou.jpg"
+},
+  {
   "game_id": "282959",
   "title": "TopSpin 2K25",
   "release_date": "2024-04-26",
