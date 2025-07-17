@@ -6404,6 +6404,22 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3wk4.jpg"
 },
   {
+  "game_id": "41025",
+  "title": "Somerville",
+  "release_date": "2023-08-31",
+  "genres": [
+    "Puzzle",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Jumpship"
+  ],
+  "description": "In the wake of catastrophe you must find the means to make your family whole again. Somerville is a Sci-Fi adventure grounded in the intimate repercussions of large scale conflict. Immerse yourself in a hand-crafted narrative experience set across a vivid rural landscape. Navigate your way through the perilous terrain ahead of you to unravel the mysteries of Earth's visitors.",
+  "total_rating": 69,
+  "url": "https://www.igdb.com/games/somerville",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6qox.jpg"
+},
+  {
   "game_id": "252478",
   "title": "Sonic Superstars",
   "release_date": "2023-10-17",
