@@ -2422,6 +2422,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pzw.jpg"
 },
   {
+  "game_id": "3042",
+  "title": "Dying Light",
+  "release_date": "2015-01-27",
+  "genres": [
+    "Shooter",
+    "Role-playing (RPG)",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Techland",
+    "Digital Scapes Studios",
+    "WB Games"
+  ],
+  "description": "Dying Light is a first-person, action survival horror game set in a vast and dangerous open world. During the day, players traverse an expansive urban environment overrun by a vicious outbreak, scavenging the world for supplies and crafting weapons to defend against the growing infected population. At night, the hunter becomes the hunted, as the infected become aggressive and more dangerous. Most frightening are the predators which only appear after sundown. Players must use everything in their power to survive until the morning’s first light.",
+  "total_rating": 76,
+  "url": "https://www.igdb.com/games/dying-light",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yq.jpg"
+},
+  {
   "game_id": "102584",
   "title": "Dying Light 2: Stay Human",
   "release_date": "2022-02-04",
@@ -2438,23 +2457,6 @@ var gamesData = [
   "total_rating": 74,
   "url": "https://www.igdb.com/games/dying-light-2-stay-human",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yk.jpg"
-},
-  {
-  "game_id": "21762",
-  "title": "Dying Light: The Following - Enhanced Edition",
-  "release_date": "2016-02-09",
-  "genres": [
-    "Role-playing (RPG)",
-    "Adventure"
-  ],
-  "involved_companies": [
-    "Techland",
-    "Time Warner Interactive"
-  ],
-  "description": "Dying Light: The Following - Enhanced Edition takes parkour-fueled zombie survival to a whole new level. Enjoy the definitive Dying Light experience with the brand new Legend system, improved visuals, major gameplay enhancements, and more. This package comes with all the available bonus content, including Dying Light: The Following - a massive story based expansion that brings mysterious characters, deadly new weapons, unexpected quests, and fully customizable and drivable dirt buggies. Dying Light is now bigger, better and scarier than ever before. Enjoy the ultimate zombie experience as you scavenge for supplies, craft weapons, and do anything you can to survive in a city ravaged by the zombie virus. Dying Light: The Following introduces the drivable dirt buggy that you can freely customize and upgrade with special weapons, attachments and decals to create your most deadly weapon yet. [from amazon.com]",
-  "total_rating": 87,
-  "url": "https://www.igdb.com/games/dying-light-the-following-enhanced-edition",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6619.jpg"
 },
   {
   "game_id": "308698",
