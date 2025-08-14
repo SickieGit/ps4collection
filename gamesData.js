@@ -631,6 +631,25 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mhj.jpg"
 },
   {
+  "game_id": "251833",
+  "title": "Balatro",
+  "release_date": "2024-02-20",
+  "genres": [
+    "Strategy",
+    "Turn-based strategy (TBS)",
+    "Indie",
+    "Card & Board Game"
+  ],
+  "involved_companies": [
+    "LocalThunk",
+    "Playstack"
+  ],
+  "description": "Balatro is a deck-building roguelite where you must play poker hands and earn chips to defeat enemy blinds. Enhance your deck of playing cards, buy Jokers to modify each hand you play, and discover new and wild synergies to win!",
+  "total_rating": 88,
+  "url": "https://www.igdb.com/games/balatro",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9f4g.jpg"
+},
+  {
   "game_id": "1983",
   "title": "Bastion",
   "release_date": "2015-04-07",
