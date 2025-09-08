@@ -3419,7 +3419,7 @@ var gamesData = [
     "Warner Bros. Interactive Entertainment"
   ],
   "description": "It is a remaster with improved graphics for PS4/XBOX One",
-  "total_rating": 0,
+  "total_rating": 79,
   "url": "https://www.igdb.com/games/hitman-absolution-hd",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6hdm.jpg"
 },
@@ -3954,7 +3954,7 @@ var gamesData = [
   ],
   "involved_companies": [],
   "description": "LEGO 2K Drive Awesome Edition includes: # Aquadirt Racer Pack\n# Year 1 Drive Pass: Includes Season 1, 2, 3 and 4 DLC packs. the Awesome Pizza Vehicle. Release timing of the DLC contents will be revealed at a future date.\n# 550 Coins\n# Awesome Bonus Pack: Includes Wheelie Stunt Driver Minifigure, Machio Beast Vehicle and a Vehicle Flair.\n# 3 Day Early Access",
-  "total_rating": 0,
+  "total_rating": 73,
   "url": "https://www.igdb.com/games/lego-2k-drive-awesome-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6aez.jpg"
 },
@@ -4996,7 +4996,7 @@ var gamesData = [
     "Milestone"
   ],
   "description": "Join the official Championship and step into the boots of your favorite riders. Master the most iconic bikes and tracks of the season and challenge the best riders in the world. Feel the authentic race thrills thanks to an overhauled sound design, recorded on-site from official bikes.",
-  "total_rating": 0,
+  "total_rating": 78,
   "url": "https://www.igdb.com/games/motogp-25",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9rdb.jpg"
 },
@@ -5882,7 +5882,7 @@ var gamesData = [
     "Psyonix"
   ],
   "description": "Rocket League equips players with booster-rigged vehicles that can be crashed into balls for incredible goals or epic saves across multiple, highly-detailed arenas. Using an advanced physics system to simulate realistic interactions, Rocket League relies on mass and momentum to give players a complete sense of intuitive control in this unbelievable, high-octane re-imagining of association football.",
-  "total_rating": 0,
+  "total_rating": 86,
   "url": "https://www.igdb.com/games/rocket-league-ultimate-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2f2b.jpg"
 },
@@ -5918,7 +5918,7 @@ var gamesData = [
     "GSC Game World"
   ],
   "description": "A bundle of the first three S.T.A.L.K.E.R. games released on consoles for the first time.",
-  "total_rating": 0,
+  "total_rating": 73,
   "url": "https://www.igdb.com/games/s-dot-t-a-dot-l-k-dot-e-r-dot-legends-of-the-zone-trilogy",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7uzc.jpg"
 },
@@ -7586,7 +7586,7 @@ var gamesData = [
     "Nacon"
   ],
   "description": "The official ATP and WTA Tennis game has finally arrived! Become the Number One player in the world, competing for entire seasons against the largest cast of professional tennis players ever united in a tennis videogame.",
-  "total_rating": 0,
+  "total_rating": 62,
   "url": "https://www.igdb.com/games/tiebreak",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8p6o.jpg"
 },
@@ -8221,7 +8221,7 @@ var gamesData = [
   ],
   "involved_companies": [],
   "description": "Use hacking as a weapon in the massive & dynamic open world of Watch Dogs 2. In 2016, ctOS 2.0, an advanced operating system networking city infrastructure, was implemented in several US cities to create a safer, more efficient metropolis. Play as Marcus Holloway, a brilliant young hacker living in the birthplace of the tech revolution, the San Francisco Bay Area. Team up with Dedsec, a notorious group of hackers, and expose the hidden dangers of ctOS 2.0, which, in the hands of corrupt corporations, is being wrongfully used to monitor and manipulate citizens on a massive scale. With the power of hacking and Dedsec by your side, launch the Hack of the Century, take down ctOS 2.0 and give freedom back to whom it belongs: the people.",
-  "total_rating": 0,
+  "total_rating": 82,
   "url": "https://www.igdb.com/games/watch-dogs-2-gold-edition",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2pbj.jpg"
 },
