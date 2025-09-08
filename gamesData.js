@@ -5034,7 +5034,7 @@ var gamesData = [
     "2K"
   ],
   "description": "Bragging rights are on the line in MyCAREER, MyTEAM, MyNBA, The W, and Play Now. Showcase your bag of moves with hyper realism, Powered by ProPLAY, and challenge your friends, or rivals, in NBA 2K26’s competitive modes—and leave no doubt that you wear the crown.",
-  "total_rating": 0,
+  "total_rating": 83,
   "url": "https://www.igdb.com/games/nba-2k26",
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3pk.jpg"
 },
