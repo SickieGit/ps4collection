@@ -5022,9 +5022,9 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co4a5h.jpg"
 },
   {
-  "game_id": "308034",
-  "title": "NBA 2K25",
-  "release_date": "2024-09-04",
+  "game_id": "353901",
+  "title": "NBA 2K26",
+  "release_date": "2025-09-05",
   "genres": [
     "Simulator",
     "Sport"
@@ -5033,10 +5033,10 @@ var gamesData = [
     "Visual Concepts",
     "2K"
   ],
-  "description": "Stack wins, raise banners, and make history in NBA 2K25. Command every court with authenticity and realism Powered by ProPLAY, giving you ultimate control over how you play in NBA 2K25. Define your legacy in MyCAREER, MyTEAM, MyNBA, and The W.",
-  "total_rating": 75,
-  "url": "https://www.igdb.com/games/nba-2k25",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8te0.jpg"
+  "description": "Bragging rights are on the line in MyCAREER, MyTEAM, MyNBA, The W, and Play Now. Showcase your bag of moves with hyper realism, Powered by ProPLAY, and challenge your friends, or rivals, in NBA 2K26’s competitive modes—and leave no doubt that you wear the crown.",
+  "total_rating": 0,
+  "url": "https://www.igdb.com/games/nba-2k26",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa3pk.jpg"
 },
   {
   "game_id": "119161",
