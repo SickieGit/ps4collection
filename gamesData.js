@@ -3461,6 +3461,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gn3.jpg"
 },
   {
+  "game_id": "14593",
+  "title": "Hollow Knight",
+  "release_date": "2018-09-25",
+  "genres": [
+    "Platform",
+    "Adventure",
+    "Indie"
+  ],
+  "involved_companies": [
+    "Team Cherry"
+  ],
+  "description": "A 2D metroidvania with an emphasis on close combat and exploration in which the player enters the once-prosperous now-bleak insect kingdom of Hallownest, travels through its various districts, meets friendly inhabitants, fights hostile ones and uncovers the kingdom's history while improving their combat abilities and movement arsenal by fighting bosses and accessing out-of-the-way areas.",
+  "total_rating": 92,
+  "url": "https://www.igdb.com/games/hollow-knight",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co93cr.jpg"
+},
+  {
   "game_id": "115289",
   "title": "Hollow Knight: Silksong",
   "release_date": "2025-09-04",
