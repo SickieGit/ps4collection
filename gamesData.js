@@ -2478,22 +2478,21 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co65yk.jpg"
 },
   {
-  "game_id": "308698",
-  "title": "EA Sports FC 25",
-  "release_date": "2024-09-20",
+  "game_id": "353848",
+  "title": "EA Sports FC 26",
+  "release_date": "2025-09-19",
   "genres": [
     "Simulator",
     "Sport"
   ],
   "involved_companies": [
     "EA Sports",
-    "EA Vancouver",
-    "EA Romania"
+    "EA Vancouver"
   ],
-  "description": "EA SPORTS FC 25 gives you more ways to win for the club. Team up with friends in your favourite modes with the new 5v5 Rush, and manage your club to victory as FC IQ delivers more tactical control than ever before.",
-  "total_rating": 71,
-  "url": "https://www.igdb.com/games/ea-sports-fc-25",
-  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8lno.jpg"
+  "description": "The Club is Yours in EA SPORTS FC 26. Play your way with an overhauled gameplay experience powered by community feedback, Manager Live Challenges that bring fresh storylines to the new season, and Archetypes inspired by greats of the game.",
+  "total_rating": 80,
+  "url": "https://www.igdb.com/games/ea-sports-fc-26",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa5wx.jpg"
 },
   {
   "game_id": "136560",
