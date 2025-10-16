@@ -4459,6 +4459,24 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1p7d.jpg"
 },
   {
+  "game_id": "262529",
+  "title": "Little Nightmares III",
+  "release_date": "2025-10-10",
+  "genres": [
+    "Platform",
+    "Puzzle",
+    "Adventure"
+  ],
+  "involved_companies": [
+    "Supermassive Games",
+    "Bandai Namco Entertainment"
+  ],
+  "description": "Embark on a new adventure in the unique world of Little Nightmares. In Little Nightmares III, you follow the journey of Low & Alone, as they search for a path that could lead them out of the Nowhere. Trapped within the Spiral, a cluster of disturbing places, the two friends will have to work together to survive in a dangerous world full of delusions and escape the grasp of an even greater threat lurking in the shadows. For the first time in the franchise, face your childhood fears together with a friend using online co-op, or solo with an AI companion.",
+  "total_rating": 71,
+  "url": "https://www.igdb.com/games/little-nightmares-iii--1",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coa171.jpg"
+},
+  {
   "game_id": "7330",
   "title": "LittleBigPlanet 3",
   "release_date": "2014-11-18",
