@@ -6969,6 +6969,23 @@ var gamesData = [
   "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/co27am.jpg"
 },
   {
+  "game_id": "28856",
+  "title": "The Crew 2",
+  "release_date": "2018-06-29",
+  "genres": [
+    "Racing"
+  ],
+  "involved_companies": [
+    "Ivory Tower",
+    "Asobo Studio",
+    "Ubisoft Entertainment"
+  ],
+  "description": "The newest iteration in the revolutionary franchise, The Crew 2 captures the thrill of the American motorsports spirit in one of the most exhilarating open worlds ever created. Welcome to Motornation, a huge, varied, action-packed, and beautiful playground built for motorsports throughout the entire US of A. Enjoy unrestrained exploration on ground, sea, and sky. From coast to coast, street and pro racers, off-road explorers, and freestylers gather and compete in all kinds of disciplines. Join them in high-octane contests and share every glorious moment with the world.",
+  "total_rating": 68,
+  "url": "https://www.igdb.com/games/the-crew-2",
+  "cover_image_url": "https://images.igdb.com/igdb/image/upload/t_cover_big/coab5o.jpg"
+},
+  {
   "game_id": "140617",
   "title": "The Dark Pictures Anthology: House of Ashes",
   "release_date": "2021-10-22",
